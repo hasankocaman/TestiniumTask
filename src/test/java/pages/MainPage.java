@@ -81,9 +81,12 @@ public class MainPage {
 
 
     public void setUp() {
-
+//        - www.beymen.com sitesi açılır.
+//        - Ana sayfanın açıldığı kontrol edilir.
         Driver.getDriver().get(ConfigReader.getProperty("beymenUrl"));
         log.info(Driver.getDriver().getCurrentUrl() + "   test Url acildi");
+        Control(Driver.getDriver().getCurrentUrl().contains("www.beymen.com"),"www.beymen.com url acildi",
+                "www.beymen.com url acilamadi !!! acilan url="+Driver.getDriver().getCurrentUrl());
         Driver.getDriver().manage().window().maximize();
 
         try {
