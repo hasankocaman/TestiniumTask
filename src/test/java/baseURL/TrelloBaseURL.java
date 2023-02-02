@@ -2,13 +2,13 @@ package baseURL;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.specification.RequestSpecification;
-import org.junit.Before;
+import org.junit.jupiter.api.BeforeAll;
 
 public class TrelloBaseURL {
 
     protected RequestSpecification spec;
 
-    @Before
+   @BeforeAll
     public void setUp(){
 
         spec = new RequestSpecBuilder().

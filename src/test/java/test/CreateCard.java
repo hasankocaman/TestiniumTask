@@ -3,7 +3,7 @@ package test;
 import baseURL.TrelloBaseURL;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
@@ -12,7 +12,7 @@ public class CreateCard extends TrelloBaseURL {
 
     //63da7792c59ce5d882b0a9fd
 
-    @Test
+   @Test
     public void createCard (){
         spec.pathParams("pp1",1,"pp2","cards");
 //        HttpResponse<JsonNode> response = Unirest.post("https://api.trello.com/1/cards")

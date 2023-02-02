@@ -3,13 +3,13 @@ package test;
 import baseURL.TrelloBaseURL;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
 public class CreateABoardTrello extends TrelloBaseURL {
 
-    @Test
+   @Test
     public void createBoard (){
     spec.pathParams("pp1",1,"pp2","boards");
 //        HttpResponse<String> response = Unirest.post("https://api.trello.com/1/boards/")
