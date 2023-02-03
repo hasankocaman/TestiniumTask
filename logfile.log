@@ -1,0 +1,1016 @@
+2023-02-02 14:33:29,391 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 14:36:07,418 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 14:40:41,344 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 14:41:05,252 INFO  [Log] test Url acildi 
+2023-02-02 14:41:05,275 INFO  [Log] try calisti 
+2023-02-02 14:41:10,313 INFO  [Log] finally calisti 
+2023-02-02 14:43:36,302 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 14:43:49,586 INFO  [Log] test Url acildi 
+2023-02-02 14:43:49,612 INFO  [Log] try calisti 
+2023-02-02 14:43:54,852 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 14:43:54,853 INFO  [Log] finally calisti 
+2023-02-02 14:45:09,963 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 14:45:22,066 INFO  [Log] test Url acildi 
+2023-02-02 14:45:22,102 INFO  [Log] try calisti 
+2023-02-02 14:45:27,133 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 14:45:27,133 INFO  [Log] finally calisti 
+2023-02-02 14:46:39,720 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 14:46:51,424 INFO  [Log] test Url acildi 
+2023-02-02 14:46:51,442 INFO  [Log] try calisti 
+2023-02-02 14:46:56,456 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 14:46:56,456 INFO  [Log] finally calisti 
+2023-02-02 19:58:41,016 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 19:58:52,642 INFO  [Log] test Url acildi 
+2023-02-02 19:58:52,677 INFO  [Log] try calisti 
+2023-02-02 19:58:57,764 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (18c279e46df85cda764cdaf724a35526)] -> id: genderManButton] elementi gozuktu 
+2023-02-02 19:58:57,775 ERROR [Log] [[ChromeDriver: chrome on WINDOWS (18c279e46df85cda764cdaf724a35526)] -> id: genderManButton] elementi gozukmedi 
+2023-02-02 19:59:08,680 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (18c279e46df85cda764cdaf724a35526)] -> id: genderManButton] elementine tiklandi 
+2023-02-02 19:59:08,688 ERROR [Log] [[ChromeDriver: chrome on WINDOWS (18c279e46df85cda764cdaf724a35526)] -> id: genderManButton] elementi tiklanamadi 
+2023-02-02 19:59:08,688 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 19:59:13,854 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (18c279e46df85cda764cdaf724a35526)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementi gozuktu 
+2023-02-02 19:59:13,956 ERROR [Log] [[ChromeDriver: chrome on WINDOWS (18c279e46df85cda764cdaf724a35526)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementi gozukmedi 
+2023-02-02 19:59:14,352 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (18c279e46df85cda764cdaf724a35526)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementine tiklandi 
+2023-02-02 19:59:14,386 ERROR [Log] [[ChromeDriver: chrome on WINDOWS (18c279e46df85cda764cdaf724a35526)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementi tiklanamadi 
+2023-02-02 19:59:14,386 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 19:59:14,386 INFO  [Log] finally calisti 
+2023-02-02 20:01:10,530 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 20:01:20,752 INFO  [Log] test Url acildi 
+2023-02-02 20:01:20,779 INFO  [Log] try calisti 
+2023-02-02 20:01:26,693 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (390bd8d0f88b4435fa867df0ba4bfde2)] -> id: genderManButton] elementi gozuktu 
+2023-02-02 20:01:37,228 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (390bd8d0f88b4435fa867df0ba4bfde2)] -> id: genderManButton] elementine tiklandi 
+2023-02-02 20:01:37,228 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 20:01:42,303 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (390bd8d0f88b4435fa867df0ba4bfde2)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementi gozuktu 
+2023-02-02 20:01:42,422 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (390bd8d0f88b4435fa867df0ba4bfde2)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementine tiklandi 
+2023-02-02 20:01:42,422 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 20:01:42,422 INFO  [Log] finally calisti 
+2023-02-02 20:05:01,669 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 20:05:12,736 INFO  [Log] test Url acildi 
+2023-02-02 20:05:12,758 INFO  [Log] try calisti 
+2023-02-02 20:05:17,891 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (63d04adbd7ea98536b44ed0adc21d394)] -> id: genderManButton] elementi gozuktu 
+2023-02-02 20:05:29,297 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (63d04adbd7ea98536b44ed0adc21d394)] -> id: genderManButton] elementine tiklandi 
+2023-02-02 20:05:29,297 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 20:05:34,431 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (63d04adbd7ea98536b44ed0adc21d394)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementi gozuktu 
+2023-02-02 20:05:34,850 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (63d04adbd7ea98536b44ed0adc21d394)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementine tiklandi 
+2023-02-02 20:05:34,855 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 20:05:34,856 INFO  [Log] finally calisti 
+2023-02-02 20:17:44,462 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 20:17:54,934 INFO  [Log] test Url acildi 
+2023-02-02 20:17:54,949 INFO  [Log] try calisti 
+2023-02-02 20:18:00,250 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (b54b3d7bc3d1f492f57262e97845272b)] -> id: genderManButton] elementi gozuktu 
+2023-02-02 20:18:11,375 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (b54b3d7bc3d1f492f57262e97845272b)] -> id: genderManButton] elementine tiklandi 
+2023-02-02 20:18:11,376 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 20:18:16,591 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (b54b3d7bc3d1f492f57262e97845272b)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementi gozuktu 
+2023-02-02 20:18:16,886 INFO  [Log] [[ChromeDriver: chrome on WINDOWS (b54b3d7bc3d1f492f57262e97845272b)] -> xpath: (//*[text()='Tüm Çerezleri Kabul Et'])[1]] elementine tiklandi 
+2023-02-02 20:18:16,886 INFO  [Log] ifExistClick methodu finally calisti 
+2023-02-02 20:18:16,886 INFO  [Log] finally calisti 
+2023-02-02 20:42:05,449 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 20:42:11,755 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 20:42:16,856 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 20:42:27,414 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 20:42:32,479 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 20:42:32,647 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 20:42:33,847 INFO  [Log] belirlenen urun 71  siradaki urundur 
+2023-02-02 20:42:33,882 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 20:52:58,127 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 20:53:10,361 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 20:53:15,629 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 20:53:26,696 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 20:53:31,772 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 20:53:32,058 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 20:53:33,734 INFO  [Log] randomValue = 93 
+2023-02-02 20:55:41,892 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 20:55:56,020 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 20:56:02,148 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 20:56:13,058 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 20:56:18,130 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 20:56:18,253 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 20:56:19,463 INFO  [Log] urunSayisi = 98 
+2023-02-02 20:56:19,463 INFO  [Log] randomValue = 67 
+2023-02-02 21:04:26,788 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 21:04:37,702 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 21:04:42,824 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 21:04:53,379 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 21:04:58,461 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 21:04:58,684 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 21:05:00,199 INFO  [Log] belirlenen urun 26  siradaki urundur 
+2023-02-02 21:05:00,241 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 21:05:04,358 INFO  [Log] listeden belirlenen urun = Beymen Club 
+2023-02-02 21:11:54,353 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 21:11:58,010 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 21:12:03,119 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 21:12:13,849 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 21:12:19,018 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 21:12:19,368 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 21:12:20,442 INFO  [Log] belirlenen urun 95  siradaki urundur 
+2023-02-02 21:12:20,479 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 21:14:56,113 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 21:15:07,288 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 21:15:12,664 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 21:15:23,211 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 21:15:28,273 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 21:15:28,504 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 21:15:30,223 INFO  [Log] belirlenen urun 39  siradaki urundur 
+2023-02-02 21:15:30,268 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 21:15:55,918 INFO  [Log] listeden belirlenen urun = Beymen Club 
+2023-02-02 22:50:51,321 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 22:51:04,613 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 22:51:09,819 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 22:51:20,401 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 22:51:25,486 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 22:51:25,757 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 22:51:26,725 INFO  [Log] belirlenen urun 20  siradaki urundur 
+2023-02-02 22:51:26,758 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 22:51:31,872 INFO  [Log] listeden belirlenen urun = Sease 
+2023-02-02 22:51:36,170 INFO  [Log] belirlenen urun 11  siradaki urundur 
+2023-02-02 22:51:36,256 INFO  [Log] listeden belirlenen urun = Sease 
+2023-02-02 22:53:18,172 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 22:53:22,531 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 22:53:27,700 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 22:53:38,244 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 22:53:43,383 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 22:53:43,506 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 22:53:44,462 INFO  [Log] belirlenen urun 29  siradaki urundur 
+2023-02-02 22:53:44,497 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 22:53:48,872 INFO  [Log] listeden belirlenen urun = Network 
+2023-02-02 22:53:55,639 INFO  [Log] belirlenen urun 36  siradaki urundur 
+2023-02-02 22:53:55,705 INFO  [Log] listeden belirlenen urun = GÖMLEK 
+2023-02-02 23:36:15,245 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 23:36:25,600 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 23:36:30,729 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 23:36:41,220 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 23:36:46,351 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 23:36:46,648 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 23:36:47,539 INFO  [Log] belirlenen urun 80  siradaki urundur 
+2023-02-02 23:36:47,575 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 23:39:12,168 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 23:39:23,612 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 23:39:28,696 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 23:39:39,146 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 23:39:44,243 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 23:39:44,349 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 23:39:45,234 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-02 23:39:45,254 INFO  [Log] belirlenen urun 44  siradaki urundur 
+2023-02-02 23:39:45,287 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 23:39:49,894 INFO  [Log] listeden belirlenen urun = Beymen Club 
+2023-02-02 23:39:55,167 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-02 23:39:55,191 INFO  [Log] belirlenen urun 3  siradaki urundur 
+2023-02-02 23:39:55,360 INFO  [Log] listeden belirlenen urun = Comfort Fit Mavi Oxford Gömlek 
+2023-02-02 23:40:57,721 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 23:41:13,091 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 23:41:18,998 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 23:41:29,787 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 23:41:34,857 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 23:41:35,006 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 23:41:35,919 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-02 23:41:35,960 INFO  [Log] belirlenen urun 62  siradaki urundur 
+2023-02-02 23:44:10,660 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 23:44:23,357 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 23:44:29,215 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 23:44:40,376 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 23:44:45,455 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 23:44:45,798 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 23:44:47,752 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-02 23:44:47,783 INFO  [Log] belirlenen urun 40  siradaki urundur 
+2023-02-02 23:44:47,836 INFO  [Log] listeden belirlenen urun =  
+2023-02-02 23:44:53,538 INFO  [Log] listeden belirlenen urun = Beymen Club 
+2023-02-02 23:46:51,251 INFO  [Log] sort kelimesi gozuktu 
+2023-02-02 23:47:03,003 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-02 23:47:08,396 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-02 23:47:19,136 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-02 23:47:24,350 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-02 23:47:24,731 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-02 23:47:26,463 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-02 23:47:26,503 INFO  [Log] belirlenen urun 52  siradaki urundur 
+2023-02-03 00:03:10,484 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:03:25,373 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:03:30,481 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:03:41,656 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:03:46,782 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:03:46,903 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:03:47,980 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:03:48,000 INFO  [Log] belirlenen urun 11  siradaki urundur 
+2023-02-03 00:03:48,043 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 00:03:53,482 INFO  [Log] listeden belirlenen urun = 7 For All Mankind 
+2023-02-03 00:03:58,625 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 00:03:58,737 INFO  [Log] belirlenen urun 17  siradaki urundur 
+2023-02-03 00:03:58,852 INFO  [Log] listeden belirlenen urun = POŞET MENDİL 
+2023-02-03 00:06:44,753 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:06:56,173 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:07:01,320 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:07:12,817 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:07:18,264 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:07:18,891 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:07:19,985 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:07:20,010 INFO  [Log] belirlenen urun 12  siradaki urundur 
+2023-02-03 00:07:20,048 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 00:07:26,039 INFO  [Log] listeden belirlenen urun = Prada 
+2023-02-03 00:07:32,803 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 00:07:32,829 INFO  [Log] belirlenen urun 33  siradaki urundur 
+2023-02-03 00:07:32,986 INFO  [Log] listeden belirlenen urun = Slimmy Siyah Jean Pantolon 
+2023-02-03 00:07:41,592 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 00:10:10,514 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:10:16,943 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:10:22,196 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:10:33,438 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:10:38,564 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:10:38,905 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:10:40,000 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:10:40,024 INFO  [Log] belirlenen urun 39  siradaki urundur 
+2023-02-03 00:10:44,190 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 00:10:45,645 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 00:10:45,729 INFO  [Log] belirlenen urun 9  siradaki urundur 
+2023-02-03 00:10:45,923 INFO  [Log] listeden belirlenen urun = GÖMLEK 
+2023-02-03 00:26:01,843 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:26:07,661 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:26:12,925 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:26:23,782 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:26:28,932 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:26:29,258 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:26:30,549 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:26:30,573 INFO  [Log] belirlenen urun 0  siradaki urundur 
+2023-02-03 00:32:44,274 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:32:55,520 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:33:00,653 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:33:11,397 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:33:16,471 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:33:16,666 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:33:17,732 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:33:17,757 INFO  [Log] belirlenen urun 84  siradaki urundur 
+2023-02-03 00:34:30,088 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:34:34,804 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:34:40,450 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:34:51,033 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:34:56,107 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:34:56,252 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:34:57,352 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:34:57,401 INFO  [Log] belirlenen urun 42  siradaki urundur 
+2023-02-03 00:35:04,363 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 00:35:04,541 INFO  [Log] belirlenen urun 25  siradaki urundur 
+2023-02-03 00:37:33,262 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:37:49,364 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:37:54,747 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:38:06,064 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:38:11,171 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:38:11,348 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:38:12,867 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:38:12,898 INFO  [Log] belirlenen urun 60  siradaki urundur 
+2023-02-03 00:38:20,144 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 00:38:20,432 INFO  [Log] belirlenen urun 9  siradaki urundur 
+2023-02-03 00:40:42,980 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:50:31,712 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:50:48,094 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:50:53,800 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:51:05,033 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:51:10,159 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:51:10,405 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:51:12,055 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:51:12,086 INFO  [Log] belirlenen urun 62  siradaki urundur 
+2023-02-03 00:51:20,772 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 00:51:20,904 INFO  [Log] belirlenen urun 20  siradaki urundur 
+2023-02-03 00:58:01,892 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 00:58:11,599 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 00:58:16,704 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 00:58:27,515 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 00:58:32,804 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 00:58:33,097 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 00:58:34,147 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 00:58:34,173 INFO  [Log] belirlenen urun 38  siradaki urundur 
+2023-02-03 00:58:39,250 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 00:58:39,547 INFO  [Log] belirlenen urun 34  siradaki urundur 
+2023-02-03 01:00:54,244 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:01:04,615 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:01:09,997 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:01:20,888 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:01:26,256 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:01:26,566 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:01:27,889 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:01:27,950 INFO  [Log] belirlenen urun 5  siradaki urundur 
+2023-02-03 01:01:33,545 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:01:33,807 INFO  [Log] belirlenen urun 29  siradaki urundur 
+2023-02-03 01:01:38,475 INFO  [Log] urunBilgisi = %100 Pamuk 2023 - İlkbahar / Yaz Ürün Kodu: 101942693_857 
+2023-02-03 01:01:38,521 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 01:02:40,633 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:02:53,930 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:02:59,165 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:03:10,138 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:03:15,228 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:03:15,392 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:03:17,255 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:03:17,280 INFO  [Log] belirlenen urun 65  siradaki urundur 
+2023-02-03 01:03:23,809 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:03:23,937 INFO  [Log] belirlenen urun 27  siradaki urundur 
+2023-02-03 01:03:29,445 INFO  [Log] urunBilgisi = %50 Lyocell,%50 Pamuk 2023 - İlkbahar / Yaz Ürün Kodu: 101942852_500 
+2023-02-03 01:03:29,548 INFO  [Log] tutarBilgisi = 2.399,00 TL 
+2023-02-03 01:04:40,832 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:04:55,502 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:05:00,919 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:05:12,233 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:05:17,327 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:05:17,516 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:05:19,151 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:05:19,195 INFO  [Log] belirlenen urun 28  siradaki urundur 
+2023-02-03 01:05:31,112 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:05:31,288 INFO  [Log] belirlenen urun 33  siradaki urundur 
+2023-02-03 01:05:38,900 INFO  [Log] urunBilgisi = Düğmeli yaka, ekose desenli, petek dokulu gömlek Düğme kapatmalı, kuş logolu, köşeli manşetli Ürün bedeni: M / Model ölçüsü: Boy:187 cm - Göğüs: 90 cm - Bel: 71 cm - Kalça: 94 cm 
+2023-02-03 01:05:39,025 INFO  [Log] tutarBilgisi = 1.999,00 TL 
+2023-02-03 01:07:17,220 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:07:22,971 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:07:28,102 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:07:38,831 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:07:43,896 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:07:44,175 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:07:45,477 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:07:45,505 INFO  [Log] belirlenen urun 42  siradaki urundur 
+2023-02-03 01:07:51,808 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:07:51,902 INFO  [Log] belirlenen urun 5  siradaki urundur 
+2023-02-03 01:07:57,928 INFO  [Log] urunBilgisi = Düğmeli yaka, degradeli, keten gömlek Düğme kapatmalı, kuş logolu, köşeli manşetli Ürün bedeni: M / Model ölçüsü: Boy: 187 cm - Göğüs: 90 cm - Bel: 71 cm - Kalça: 94 cm Yeni sezon hazır giyim alışverişlerinizde ücretsiz tadilat yapılmaktadır 
+2023-02-03 01:07:57,973 INFO  [Log] tutarBilgisi = 2.199,00 TL 
+2023-02-03 01:09:35,194 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:09:42,637 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:09:47,806 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:09:58,816 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:10:04,165 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:10:04,519 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:10:06,321 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:10:06,363 INFO  [Log] belirlenen urun 80  siradaki urundur 
+2023-02-03 01:10:13,724 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:10:13,901 INFO  [Log] belirlenen urun 3  siradaki urundur 
+2023-02-03 01:10:19,046 INFO  [Log] urunBilgisi = Düğme kapatmalı, üçgen logolu, ipek gömlek Ürün bedeni: 40 / Model ölçüsü: Boy: 175 cm - Göğüs: 84 cm - Bel: 63 cm - Kalça: 89 cmYeni sezon hazır giyim alışverişlerinizde ücretsiz tadilat yapılmaktadır 
+2023-02-03 01:10:19,113 INFO  [Log] tutarBilgisi = 24.950,00 TL 
+2023-02-03 01:15:16,695 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:15:30,876 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:15:37,241 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:15:48,263 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:15:53,856 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:15:54,458 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:15:57,150 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:16:05,838 INFO  [Log] belirlenen urun 15  siradaki urundur 
+2023-02-03 01:24:31,538 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:24:41,466 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:24:46,866 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:24:57,932 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:25:03,095 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:25:03,639 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:25:06,620 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:25:06,655 INFO  [Log] belirlenen urun 92  siradaki urundur 
+2023-02-03 01:25:06,717 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 01:25:06,757 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:25:16,156 INFO  [Log] belirlenen urun 90  siradaki urundur 
+2023-02-03 01:26:06,600 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:26:12,256 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:26:17,504 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:26:28,371 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:26:33,903 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:26:34,465 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:26:37,018 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:26:37,065 INFO  [Log] belirlenen urun 7  siradaki urundur 
+2023-02-03 01:26:46,361 INFO  [Log] listeden belirlenen urun = Prada 
+2023-02-03 01:26:46,450 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:26:46,468 INFO  [Log] belirlenen urun 23  siradaki urundur 
+2023-02-03 01:26:46,539 INFO  [Log] listeden belirlenen urun = Comfort Fit Açık Mavi Grogren Detaylı Denim Gömlek 
+2023-02-03 01:29:24,785 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:29:38,100 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:29:43,249 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:29:54,065 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:29:59,162 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:29:59,300 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:30:00,325 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:30:00,366 INFO  [Log] belirlenen urun 43  siradaki urundur 
+2023-02-03 01:30:07,351 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 01:30:08,134 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:30:09,489 INFO  [Log] belirlenen urun 23  siradaki urundur 
+2023-02-03 01:30:09,548 INFO  [Log] listeden belirlenen urun = Comfort Fit Açık Mavi Grogren Detaylı Denim Gömlek 
+2023-02-03 01:30:16,483 INFO  [Log] urunBilgisi = Düğmeli yaka, grogren detaylı, keten gömlek Düğme kapatmalı, kuş logolu, köşeli manşetli Ürün bedeni: M / Model ölçüsü: Boy: 187 cm - Göğüs: 90 cm - Bel: 71 cm - Kalça: 94 cm 
+2023-02-03 01:30:16,528 INFO  [Log] tutarBilgisi = 2.199,00 TL 
+2023-02-03 01:34:52,347 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:35:03,223 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:35:08,328 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:35:19,836 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:35:25,263 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:35:25,837 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:35:26,789 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:35:26,807 INFO  [Log] belirlenen urun 64  siradaki urundur 
+2023-02-03 01:35:26,852 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 01:35:26,875 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:35:32,173 INFO  [Log] belirlenen urun 44  siradaki urundur 
+2023-02-03 01:35:34,105 INFO  [Log] listeden belirlenen urun = Bej Açık Yaka Desenli İpek Gömlek 
+2023-02-03 01:35:41,602 INFO  [Log] urunBilgisi = Açık yaka, düğme kapatmalı, desenli, ipek gömlek Ürün bedeni: 40 / Model ölçüsü: Boy: 180 cm - Göğüs: 80 cm - Bel: 59 cm - Kalça: 89 cm Yeni sezon hazır giyim alışverişlerinizde ücretsiz tadilat yapılmaktadır 
+2023-02-03 01:35:41,908 INFO  [Log] tutarBilgisi = 33.950,00 TL 
+2023-02-03 01:41:35,527 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:41:51,926 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:41:57,173 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:42:08,195 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:42:13,450 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:42:13,655 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:42:15,140 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:42:15,170 INFO  [Log] belirlenen urun 1  siradaki urundur 
+2023-02-03 01:42:23,089 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 01:42:23,669 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:42:24,151 INFO  [Log] belirlenen urun 37  siradaki urundur 
+2023-02-03 01:42:24,612 INFO  [Log] listeden belirlenen urun = Comfort Fit Mavi Beyaz Ekose Dikişli Gömlek 
+2023-02-03 01:42:32,058 INFO  [Log] urunBilgisi = Alttan britli yaka, düğme kapatmalı gömlek Ekose dikiş detaylı, kuş logolu, köşeli manşetli Ürün bedeni: M / Model ölçüsü: Boy: 187 cm - Göğüs: 90 cm - Bel: 71 cm - Kalça: 94 cm 
+2023-02-03 01:42:32,148 INFO  [Log] tutarBilgisi = 1.799,00 TL 
+2023-02-03 01:45:46,797 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:45:57,239 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:46:02,377 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:46:13,570 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:46:18,717 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:46:18,951 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:46:20,414 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:46:20,436 INFO  [Log] belirlenen urun 94  siradaki urundur 
+2023-02-03 01:46:20,479 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 01:46:20,505 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:46:20,527 INFO  [Log] belirlenen urun 88  siradaki urundur 
+2023-02-03 01:46:20,575 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 01:47:04,757 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:47:16,778 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:47:22,720 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:47:33,637 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:47:39,167 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:47:39,833 INFO  [Log]  elementine tiklandi 
+2023-02-03 01:47:42,486 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:47:42,515 INFO  [Log] belirlenen urun 0  siradaki urundur 
+2023-02-03 01:49:51,670 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:50:04,101 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:50:09,718 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:50:22,790 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:50:27,978 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:50:28,502 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:50:29,900 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:50:29,933 INFO  [Log] belirlenen urun 8  siradaki urundur 
+2023-02-03 01:50:37,965 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 01:50:50,091 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:50:50,262 INFO  [Log] belirlenen urun 2  siradaki urundur 
+2023-02-03 01:50:50,924 INFO  [Log] listeden belirlenen urun = Siyah Logolu Kadın Deri Omuz Çantası 
+2023-02-03 01:50:58,313 INFO  [Log] urunBilgisi = Çıkarılabilir omuz askılı, kulplu, fermuar kapatmalı, deri çanta Logolu, 1 adet iç bölmeli 22x23 cm %100 Deri 2023 - İlkbahar / Yaz Ürün Kodu: 101879570_999 
+2023-02-03 01:50:58,368 INFO  [Log] tutarBilgisi = 44.950,00 TL 
+2023-02-03 01:53:06,558 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:53:20,093 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:53:25,360 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:53:36,427 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:53:41,547 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:53:41,806 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:53:43,184 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:53:43,203 INFO  [Log] belirlenen urun 12  siradaki urundur 
+2023-02-03 01:53:43,245 INFO  [Log] listeden belirlenen urun =  
+2023-02-03 01:53:47,126 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 01:53:47,536 INFO  [Log] belirlenen urun 0  siradaki urundur 
+2023-02-03 01:56:21,717 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:56:32,148 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:56:37,484 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:56:48,247 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:56:53,355 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:56:53,714 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:56:54,991 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:57:01,046 INFO  [Log] belirlenen urun 36  siradaki urundur 
+2023-02-03 01:57:03,183 INFO  [Log] listeden belirlenen urun = Beymen Club 
+2023-02-03 01:58:23,224 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 01:58:35,556 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 01:58:42,340 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 01:58:53,827 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 01:58:58,918 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 01:58:59,113 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 01:59:01,335 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 01:59:01,416 INFO  [Log] belirlenen urun 88  siradaki urundur 
+2023-02-03 02:02:38,563 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 02:02:50,781 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 02:02:56,120 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 02:03:07,746 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 02:03:13,400 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 02:03:14,091 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 02:03:16,062 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 02:03:16,094 INFO  [Log] belirlenen urun 17  siradaki urundur 
+2023-02-03 02:03:29,863 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 02:03:29,909 INFO  [Log] belirlenen urun 31  siradaki urundur 
+2023-02-03 02:03:30,010 INFO  [Log] listeden belirlenen urun = GÖMLEK 
+2023-02-03 02:04:30,908 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 02:04:44,111 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 02:04:50,359 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 02:05:01,762 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 02:05:07,229 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 02:05:07,735 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 02:05:11,569 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 02:05:22,650 INFO  [Log] belirlenen urun 13  siradaki urundur 
+2023-02-03 02:05:33,400 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 02:05:33,943 INFO  [Log] belirlenen urun 14  siradaki urundur 
+2023-02-03 02:05:40,380 INFO  [Log] urunBilgisi = Polo yaka, düğme kapatmalı, düz renk triko Ürün bedeni: 48 / Model ölçüsü: Boy: 190 cm- Göğüs: 96 cm - Bel: 81 cm - Kalça: 93 cm Yeni sezon hazır giyim alışverişlerinizde ücretsiz tadilat yapılmaktadır 
+2023-02-03 02:05:40,649 INFO  [Log] tutarBilgisi = 8.950,00 TL 
+2023-02-03 02:07:56,648 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 02:08:00,843 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 02:08:05,981 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 02:08:16,787 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 02:08:22,001 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 02:08:22,490 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 02:08:23,509 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 02:08:23,525 INFO  [Log] belirlenen urun 67  siradaki urundur 
+2023-02-03 02:08:34,529 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 02:08:34,544 INFO  [Log] belirlenen urun 36  siradaki urundur 
+2023-02-03 02:08:38,069 INFO  [Log] urunBilgisi = Düğmeli yaka, düz renk, filafil ketenli gömlek Düğme kapatmalı, kuş logolu, köşeli manşetli Ürün bedeni: M / Model ölçüsü: Boy: 187 cm - Göğüs: 90 cm - Bel: 71 cm - Kalça: 94 cm 
+2023-02-03 02:08:38,233 INFO  [Log] tutarBilgisi = 1.799,00 TL 
+2023-02-03 02:08:58,878 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 02:11:40,587 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 02:11:57,875 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 02:12:03,388 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 02:12:15,213 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 02:12:20,286 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 02:12:20,449 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 02:12:21,679 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 02:12:21,732 INFO  [Log] belirlenen urun 89  siradaki urundur 
+2023-02-03 02:12:32,957 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 02:12:32,972 INFO  [Log] belirlenen urun 7  siradaki urundur 
+2023-02-03 02:12:37,560 INFO  [Log] urunBilgisi = Düğmeli yaka, düz renk, filafil ketenli gömlek Düğme kapatmalı, kuş logolu, köşeli manşetli Ürün bedeni: M / Model ölçüsü: Boy: 187 cm - Göğüs: 90 cm - Bel: 71 cm - Kalça: 94 cm 
+2023-02-03 02:12:37,611 INFO  [Log] tutarBilgisi = 1.799,00 TL 
+2023-02-03 02:12:37,612 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 02:13:04,613 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 02:13:04,830 INFO  [Log] 2 adet secildi 
+2023-02-03 02:13:04,932 INFO  [Log] sepetAdet = 1 adet
+2 adet
+3 adet
+4 adet
+5 adet
+6 adet
+7 adet
+8 adet
+9 adet
+10 adet
+11 adet
+12 adet
+13 adet
+14 adet
+15 adet
+16 adet
+17 adet
+18 adet
+19 adet
+20 adet
+21 adet
+22 adet
+23 adet
+24 adet
+25 adet
+26 adet
+27 adet
+28 adet
+29 adet
+30 adet
+31 adet
+32 adet
+33 adet
+34 adet
+35 adet
+36 adet
+37 adet
+38 adet
+39 adet
+40 adet
+41 adet
+42 adet
+43 adet
+44 adet
+45 adet
+46 adet
+47 adet
+48 adet
+49 adet
+50 adet
+51 adet
+52 adet
+53 adet
+54 adet
+55 adet
+56 adet
+57 adet
+58 adet
+59 adet
+60 adet
+61 adet
+62 adet
+63 adet
+64 adet
+65 adet
+66 adet
+67 adet
+68 adet
+69 adet
+70 adet
+71 adet
+72 adet
+73 adet
+74 adet
+75 adet
+76 adet
+77 adet
+78 adet
+79 adet
+80 adet
+81 adet
+82 adet
+83 adet
+84 adet
+85 adet
+86 adet
+87 adet
+88 adet
+89 adet
+90 adet
+91 adet
+92 adet
+93 adet
+94 adet
+95 adet
+96 adet
+97 adet
+98 adet
+99 adet 
+2023-02-03 02:15:05,167 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 02:15:19,417 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 02:15:25,125 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 02:15:36,466 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 02:15:41,765 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 02:15:41,970 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 02:15:43,050 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 02:15:43,114 INFO  [Log] belirlenen urun 5  siradaki urundur 
+2023-02-03 02:15:54,803 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 02:15:54,817 INFO  [Log] belirlenen urun 10  siradaki urundur 
+2023-02-03 02:16:01,189 INFO  [Log] urunBilgisi = Hakim yaka, düğme kapatmalı, keten gömlek Düz renk, 2 adet cepli Ürün bedeni: M / Model ölçüsü: Boy: 190 cm- Göğüs: 96 cm - Bel: 81 cm - Kalça: 93 cm Yeni sezon hazır giyim alışverişlerinizde ücretsiz tadilat yapılmaktadır 
+2023-02-03 02:16:01,479 INFO  [Log] tutarBilgisi = 9.750,00 TL 
+2023-02-03 02:16:01,480 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 02:16:28,049 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 02:16:28,188 INFO  [Log] 2 adet secildi 
+2023-02-03 02:16:30,214 INFO  [Log] sepetAdet = 2 
+2023-02-03 02:24:07,831 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 02:24:20,031 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 02:24:25,182 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 02:24:35,941 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 02:24:41,011 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 02:24:41,132 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 02:24:42,503 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 02:24:50,961 INFO  [Log] belirlenen urun 8  siradaki urundur 
+2023-02-03 02:24:57,869 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 02:24:58,069 INFO  [Log] belirlenen urun 3  siradaki urundur 
+2023-02-03 02:25:03,527 INFO  [Log] urunBilgisi = Düğmeli yaka, kuş logolu, oxford gömlek Düğme kapatmalı, köşeli manşetli Ürün bedeni: M / Model ölçüsü: Boy: 189 cm - Göğüs: 98cm- Bel: 76 cm - Kalça: 97 cm Yeni sezon hazır giyim alışverişlerinizde ücretsiz tadilat yapılmaktadır 
+2023-02-03 02:25:03,636 INFO  [Log] tutarBilgisi = 799,00 TL 
+2023-02-03 02:25:03,637 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 02:25:25,718 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 02:25:25,828 INFO  [Log] 2 adet secildi 
+2023-02-03 02:25:27,852 INFO  [Log] sepetAdet = 2 
+2023-02-03 02:25:27,853 INFO  [Log] urun adedi 2 adet 
+2023-02-03 02:25:28,379 INFO  [Log] sepetten urun bulunmamaktadir 
+2023-02-03 02:40:40,586 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 02:40:53,558 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 02:40:53,623 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 02:40:59,035 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 02:41:10,423 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 02:41:15,516 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 02:41:15,782 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 02:41:17,418 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 02:41:17,461 INFO  [Log] belirlenen urun 20  siradaki urundur 
+2023-02-03 02:41:35,756 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 02:41:35,799 INFO  [Log] belirlenen urun 29  siradaki urundur 
+2023-02-03 02:41:44,688 INFO  [Log] urunBilgisi = %100 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101941290_841 
+2023-02-03 02:41:44,760 INFO  [Log] tutarBilgisi = 2.999,00 TL 
+2023-02-03 02:41:44,762 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 02:42:16,708 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 02:42:17,126 INFO  [Log] 2 adet secildi 
+2023-02-03 02:42:19,192 INFO  [Log] sepetAdet = 2 
+2023-02-03 02:42:19,193 INFO  [Log] urun adedi 2 adet 
+2023-02-03 02:42:20,399 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-03 09:05:37,046 INFO  [Log] sort kelimesi gozuktu 
+2023-02-03 09:05:49,157 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 09:05:49,183 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 09:05:54,299 INFO  [Log] ERKEK elementi gozuktu 
+2023-02-03 09:06:05,133 INFO  [Log] ERKEK elementine tiklandi 
+2023-02-03 09:06:10,231 INFO  [Log] Tüm Çerezleri Kabul Et elementi gozuktu 
+2023-02-03 09:06:10,360 INFO  [Log] Tüm Çerezleri Kabul Et elementine tiklandi 
+2023-02-03 09:06:11,298 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 09:06:11,318 INFO  [Log] belirlenen urun 1  siradaki urundur 
+2023-02-03 09:06:21,308 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 09:06:21,325 INFO  [Log] belirlenen urun 31  siradaki urundur 
+2023-02-03 09:06:24,611 INFO  [Log] urunBilgisi = Düğmeli yaka, logo nakışlı gömlek Düğme kapatmalı, yuvarlak manşetli Ürün bedeni: M / Model ölçüsü: Boy: 187 cm - Göğüs: 97 cm - Bel: 77 cm - Kalça: 94 cm 
+2023-02-03 09:06:24,779 INFO  [Log] tutarBilgisi = 2.099,00 TL 
+2023-02-03 09:06:24,781 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 09:06:51,310 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 09:06:51,430 INFO  [Log] 2 adet secildi 
+2023-02-03 09:06:53,507 INFO  [Log] sepetAdet = 2 
+2023-02-03 09:06:53,508 INFO  [Log] urun adedi 2 adet 
+2023-02-03 09:06:54,161 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-03 09:25:54,271 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 09:26:09,369 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 09:26:09,409 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 09:26:09,430 ERROR [Log] Something went wrong. 
+2023-02-03 09:26:13,114 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 09:26:13,346 INFO  [Log] belirlenen urun 40  siradaki urundur 
+2023-02-03 09:26:24,056 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 09:26:24,072 INFO  [Log] belirlenen urun 0  siradaki urundur 
+2023-02-03 09:33:11,774 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 09:33:25,074 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 09:33:25,105 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 09:33:25,129 ERROR [Log] Something went wrong. 
+2023-02-03 09:39:31,234 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 09:39:38,685 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 09:39:38,740 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 09:39:38,761 ERROR [Log] Something went wrong. 
+2023-02-03 09:40:46,980 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 09:40:58,943 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 09:40:58,993 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 09:40:59,027 ERROR [Log] Something went wrong. 
+2023-02-03 09:54:48,029 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 09:55:04,205 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 09:55:04,234 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 09:55:04,234 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 09:55:04,235 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:02:26,938 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:02:37,815 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:02:37,846 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:02:37,846 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:02:37,846 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:02:42,409 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 10:02:42,490 INFO  [Log] belirlenen urun 17  siradaki urundur 
+2023-02-03 10:02:53,086 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 10:02:53,115 INFO  [Log] belirlenen urun 27  siradaki urundur 
+2023-02-03 10:15:21,465 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:15:35,899 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:15:35,971 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:15:36,983 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:15:37,995 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:15:39,381 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 10:15:39,400 INFO  [Log] belirlenen urun 66  siradaki urundur 
+2023-02-03 10:15:49,736 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 10:15:49,749 INFO  [Log] belirlenen urun 21  siradaki urundur 
+2023-02-03 10:19:45,564 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:20:02,015 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:20:02,044 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:20:03,051 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:20:04,053 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:20:05,372 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 10:20:05,398 INFO  [Log] ilk acilan product listesinde belirlenen urun 67  siradaki urundur 
+2023-02-03 10:20:21,467 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 10:20:21,492 INFO  [Log] 2. acilan product listesinde belirlenen urun 35  siradaki urundur 
+2023-02-03 10:24:40,918 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:24:57,033 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:24:57,063 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:24:58,066 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:24:59,081 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:25:25,779 ERROR [Log] Something went wrong. 
+2023-02-03 10:25:50,915 ERROR [Log] Something went wrong. 
+2023-02-03 10:25:51,028 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 10:25:51,069 INFO  [Log] ilk acilan product listesinde belirlenen urun 24  siradaki urundur 
+2023-02-03 10:26:37,437 ERROR [Log] Something went wrong. 
+2023-02-03 10:27:02,494 ERROR [Log] Something went wrong. 
+2023-02-03 10:27:29,601 ERROR [Log] Something went wrong. 
+2023-02-03 10:27:54,691 ERROR [Log] Something went wrong. 
+2023-02-03 10:27:54,754 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 10:27:54,800 INFO  [Log] 2. acilan product listesinde belirlenen urun 18  siradaki urundur 
+2023-02-03 10:28:41,220 ERROR [Log] Something went wrong. 
+2023-02-03 10:29:06,377 ERROR [Log] Something went wrong. 
+2023-02-03 10:42:30,608 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:42:48,023 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:42:48,045 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:42:49,057 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:42:50,057 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:52:10,573 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:52:27,353 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:52:27,378 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:52:28,868 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:52:29,870 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:55:29,659 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:55:44,400 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:55:44,433 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:55:45,889 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:55:46,891 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:57:26,968 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:57:39,386 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:57:39,524 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:57:40,903 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:57:41,914 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:59:32,358 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 10:59:46,475 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 10:59:46,498 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 10:59:48,001 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 10:59:49,006 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 10:59:50,020 INFO  [Log] listedekiUrunSayisi = 98 
+2023-02-03 10:59:50,070 INFO  [Log] ilk acilan product listesinde belirlenen urun 44  siradaki urundur 
+2023-02-03 10:59:56,912 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 10:59:58,968 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:01,067 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:03,171 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:05,283 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:07,385 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:09,491 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:11,573 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:13,657 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:15,737 ERROR [Log] Beymen Club elementine tiklanamadi!!! 
+2023-02-03 11:00:17,759 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 11:00:17,773 INFO  [Log] 2. acilan product listesinde belirlenen urun 38  siradaki urundur 
+2023-02-03 11:00:19,856 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:21,945 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:24,035 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:26,131 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:28,228 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:30,321 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:32,400 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:34,486 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:36,564 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:00:38,657 ERROR [Log] Comfort Fit Lacivert Düğmeli Yaka Oxford Gömlek elementine tiklanamadi!!! 
+2023-02-03 11:04:31,276 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:04:48,179 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:04:48,223 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:04:49,819 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:04:50,822 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:04:55,811 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 11:04:56,050 INFO  [Log] ilk acilan product listesinde belirlenen urun 17  siradaki urundur 
+2023-02-03 11:06:45,448 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:06:58,272 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:06:58,298 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:06:59,755 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:07:00,761 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:07:04,029 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 11:07:04,330 INFO  [Log] ilk acilan product listesinde belirlenen urun 21  siradaki urundur 
+2023-02-03 11:07:09,515 INFO  [Log] Beymen Club elementi gozuktu 
+2023-02-03 11:11:20,068 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:11:33,517 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:11:33,640 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:11:35,123 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:11:36,137 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:11:40,130 INFO  [Log] listedekiUrunSayisi = 48 
+2023-02-03 11:11:40,373 INFO  [Log] ilk acilan product listesinde belirlenen urun 42  siradaki urundur 
+2023-02-03 11:11:46,195 INFO  [Log] listedekiUrunSayisi = 146 
+2023-02-03 11:11:46,213 INFO  [Log] 2. acilan product listesinde belirlenen urun 138  siradaki urundur 
+2023-02-03 11:11:57,320 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:12:08,389 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:12:19,451 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:12:30,495 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:12:41,558 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:12:52,640 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:13:03,675 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:13:14,765 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:13:25,843 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:13:36,912 ERROR [Log]  elementine tiklanamadi!!! 
+2023-02-03 11:15:27,821 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:15:42,910 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:15:42,934 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:15:44,291 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:15:45,296 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:15:50,524 INFO  [Log] ilk listedekiUrunSayisi = 48 
+2023-02-03 11:15:51,112 INFO  [Log] ilk acilan product listesinde belirlenen urun 44  siradaki urundur 
+2023-02-03 11:15:57,486 INFO  [Log] ikinci listedekiUrunSayisi = 146 
+2023-02-03 11:15:57,506 INFO  [Log] 2. acilan product listesinde belirlenen urun 25  siradaki urundur 
+2023-02-03 11:16:43,499 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:16:57,411 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:16:57,442 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:16:58,941 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:16:59,950 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:21:57,267 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:22:15,788 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:22:15,872 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:22:17,425 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:22:18,440 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:22:20,985 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:22:20,989 INFO  [Log] ilk acilan product listesinde belirlenen urun 0  siradaki urundur 
+2023-02-03 11:26:53,115 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:27:09,898 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:27:09,947 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:27:11,407 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:27:12,423 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:28:26,636 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:28:45,187 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:28:45,251 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:28:46,675 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:28:47,677 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:28:49,901 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:28:49,905 INFO  [Log] ilk acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 11:28:57,324 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 11:28:57,324 INFO  [Log] 2. acilan product listesinde belirlenen urun 0  siradaki urundur 
+2023-02-03 11:32:35,012 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:32:50,926 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:32:50,948 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:32:52,395 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:32:53,397 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:32:54,341 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:32:54,343 INFO  [Log] ilk acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 11:33:00,538 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 11:33:00,538 INFO  [Log] 2. acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 11:33:08,395 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942491_054 
+2023-02-03 11:33:08,437 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 11:33:08,437 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 11:35:21,661 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:35:35,374 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:35:35,408 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:35:36,814 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:35:37,818 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:35:39,520 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:35:39,523 INFO  [Log] ilk acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 11:35:46,230 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 11:35:46,231 INFO  [Log] 2. acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 11:35:54,141 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942490_025 
+2023-02-03 11:35:54,172 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 11:35:54,173 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 11:36:20,730 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 11:36:20,866 INFO  [Log] 2 adet secildi 
+2023-02-03 11:36:22,886 INFO  [Log] sepetAdet = 2 
+2023-02-03 11:36:22,886 INFO  [Log] urun adedi 2 adet 
+2023-02-03 11:36:23,389 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-03 11:37:04,014 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:37:20,332 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:37:20,547 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:37:22,284 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:37:23,294 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:37:24,416 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:37:24,419 INFO  [Log] ilk acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 11:37:31,451 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 11:37:31,452 INFO  [Log] 2. acilan product listesinde belirlenen urun 0  siradaki urundur 
+2023-02-03 11:42:31,430 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:42:45,871 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:42:45,899 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:42:47,301 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:42:48,311 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:42:49,397 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:42:49,399 INFO  [Log] 2. acilan product listesinde belirlenen urun 0  siradaki urundur 
+2023-02-03 11:42:55,633 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 11:42:55,634 INFO  [Log] 2. acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 11:43:04,005 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942490_025 
+2023-02-03 11:43:04,032 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 11:43:04,032 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 11:43:29,915 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 11:43:30,052 INFO  [Log] 2 adet secildi 
+2023-02-03 11:43:32,091 INFO  [Log] sepetAdet = 2 
+2023-02-03 11:43:32,092 INFO  [Log] urun adedi 2 adet 
+2023-02-03 11:43:32,667 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-03 11:44:10,166 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:44:25,524 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:44:25,557 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:44:27,167 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:44:28,176 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:44:30,047 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:44:30,050 INFO  [Log] 2. acilan product listesinde belirlenen urun 0  siradaki urundur 
+2023-02-03 11:44:36,105 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 11:44:36,106 INFO  [Log] 2. acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 11:44:45,485 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942490_025 
+2023-02-03 11:44:45,523 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 11:44:45,524 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 11:45:14,472 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 11:45:14,622 INFO  [Log] 2 adet secildi 
+2023-02-03 11:45:16,654 INFO  [Log] sepetAdet = 2 
+2023-02-03 11:45:16,654 INFO  [Log] urun adedi 2 adet 
+2023-02-03 11:45:17,134 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-03 11:46:25,395 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:46:40,956 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:46:40,992 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:46:42,443 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:46:43,456 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:46:46,531 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:46:46,533 INFO  [Log] 2. acilan product listesinde belirlenen urun 27  siradaki urundur 
+2023-02-03 11:48:27,868 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:48:42,277 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:48:42,319 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:48:43,885 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:48:44,899 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:48:46,370 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:48:46,372 INFO  [Log] 2. acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 11:48:50,703 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 11:48:50,704 INFO  [Log] 2. acilan product listesinde belirlenen urun 0  siradaki urundur 
+2023-02-03 11:50:01,552 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:50:16,307 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:50:16,531 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:50:18,276 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:50:19,276 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:50:20,145 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:50:20,146 INFO  [Log] 2. acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 11:50:25,897 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 11:50:25,898 INFO  [Log] 2. acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 11:50:36,134 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942490_025 
+2023-02-03 11:50:36,158 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 11:50:36,158 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 11:53:04,204 INFO  [Log] Beymen UI Testi basladi 
+2023-02-03 11:53:05,366 INFO  [Log] sort kelimesi excelden alindi 
+2023-02-03 11:53:19,982 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:53:20,007 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:53:21,533 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:53:22,548 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:53:23,861 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 11:53:23,865 INFO  [Log] 2. acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 11:53:35,989 INFO  [Log] ikinci listedekiUrunSayisi = 146 
+2023-02-03 11:53:35,991 INFO  [Log] 2. acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 11:53:46,546 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942491_054 
+2023-02-03 11:53:46,585 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 11:53:46,586 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 11:54:10,913 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 11:54:11,045 INFO  [Log] 2 adet secildi 
+2023-02-03 11:54:13,073 INFO  [Log] sepetAdet = 2 
+2023-02-03 11:54:13,074 INFO  [Log] urun adedi 2 adet 
+2023-02-03 11:54:13,557 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-03 11:54:13,557 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-03 11:55:30,605 INFO  [Log] Beymen UI Testi basladi 
+2023-02-03 11:55:31,160 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-03 11:55:43,497 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 11:55:43,522 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 11:55:45,037 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 11:55:46,046 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 11:55:46,790 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-03 11:55:49,359 INFO  [Log] ilk listedekiUrunSayisi = 48 
+2023-02-03 11:55:49,368 INFO  [Log] 2. acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 11:55:56,305 INFO  [Log] ikinci listedekiUrunSayisi = 146 
+2023-02-03 11:55:56,307 INFO  [Log] 2. acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 11:56:05,665 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942490_025 
+2023-02-03 11:56:05,687 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 11:56:05,688 INFO  [Log] txt dosyasina yazildi 

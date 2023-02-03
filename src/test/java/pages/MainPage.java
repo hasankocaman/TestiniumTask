@@ -2,6 +2,8 @@ package pages;
 
 import logger.Log;
 import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -15,14 +17,19 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.time.Duration;
 import java.util.List;
 import java.util.Random;
 import org.openqa.selenium.support.ui.Select;
 
+import static org.testng.AssertJUnit.assertEquals;
+
 
 public class MainPage {
 
+    WebDriverWait wait = null;
 
+    ChromeOptions options = new ChromeOptions();
     Log log = new Log();
     private static int timeout = 5;
 
@@ -31,9 +38,12 @@ public class MainPage {
 
     }
 
+    public static final By COOKIE_BUTTON = By.id("onetrust-accept-btn-handler");
 
-    @FindBy(id = "onetrust-accept-btn-handler")
-    public WebElement acceptCookiesLocator;
+    public static final By ERKEK_BUTTON = By.id("genderManButton");
+
+    public static final By PRODUCT_SELECTED = By.xpath("(//*[@class='col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-3 o-productList__itemWrapper'])[" + rnd() + "]");
+
 
     @FindBy(xpath = "(//*[text()='Tüm Çerezleri Kabul Et'])[1]")
     public WebElement acceptCookiesLocator2;
@@ -45,10 +55,10 @@ public class MainPage {
     public WebElement searchbox;
 
     @FindBy(xpath = "//*[@class='m-productCard__title']")
-    public List <WebElement> productList;
+    public List<WebElement> productList;
 
     @FindBy(xpath = "//*[@class='m-productCard__desc']")
-    public List <WebElement> acilanProductList;
+    public List<WebElement> acilanProductList;
 
     @FindBy(xpath = "//*[@class='m-productInfo__detail']")
     public WebElement productDetail;
@@ -59,8 +69,6 @@ public class MainPage {
     @FindBy(id = "addBasket")
     public WebElement addBasket;
 
-//    @FindBy(xpath = "(//*[@class='m-variation__item'])[2]")
-//    public WebElement bedenOlcusu;
 
     @FindBy(xpath = "(//*[@class='o-header__userInfo--text'])[3]")
     public WebElement sepeteGit;
@@ -78,25 +86,71 @@ public class MainPage {
     public WebElement sepetteUrunBulunmamaktadir;
 
 
-
-
     public void setUp() {
+
+
 //        - www.beymen.com sitesi açılır.
 //        - Ana sayfanın açıldığı kontrol edilir.
         Driver.getDriver().get(ConfigReader.getProperty("beymenUrl"));
+        wait(3);
         log.info(Driver.getDriver().getCurrentUrl() + "   test Url acildi");
-        Control(Driver.getDriver().getCurrentUrl().contains("www.beymen.com"),"www.beymen.com url acildi",
-                "www.beymen.com url acilamadi !!! acilan url="+Driver.getDriver().getCurrentUrl());
-        Driver.getDriver().manage().window().maximize();
+        Control(Driver.getDriver().getCurrentUrl().contains("www.beymen.com"), "www.beymen.com url acildi",
+                "www.beymen.com url acilamadi !!! acilan url=" + Driver.getDriver().getCurrentUrl());
+
+        Driver.getDriver().manage().getCookies(); // Returns the List of all Cookies
+        Driver.getDriver().manage().deleteAllCookies(); // Deletes all the cookies
+
+//Add chrome switch to disable notification - "**--disable-notifications**"
+        options.addArguments("--disable-notifications");
+
 
         try {
-
-            ifExistClick(genderManButton);
-            ifExistClick(acceptCookiesLocator2);
+            wait(1);
+            erkekBtnClick();
+            options.addArguments("--disable-notifications");
+            Driver.getDriver().manage().deleteAllCookies(); // Deletes all the cookies
+            //   ifExistClick(genderManButton);
+            //   ifExistClick(acceptCookiesLocator2);
         } catch (Exception e) {
-            log.error("Something went wrong.");
+            log.error("Erkek butonu tiklanamadi. ");
         }
+        try {
+            wait(1);
+            cookieClick();
+            options.addArguments("--disable-notifications");
+            Driver.getDriver().manage().deleteAllCookies(); // Deletes all the cookies
+            //   ifExistClick(genderManButton);
+            //   ifExistClick(acceptCookiesLocator2);
+        } catch (Exception e) {
+            log.error("Cerezler kabul edilemedi.");
+        }
+        Driver.getDriver().manage().window().maximize();
 
+    }
+
+    public MainPage cookieClick() {
+           click(COOKIE_BUTTON);
+        return this;
+    }
+    public MainPage erkekBtnClick() {
+     click(ERKEK_BUTTON);
+     assertEquals("Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu", Driver.getDriver().getTitle());
+        return this;
+    }
+
+    public void click(By by) {
+        wait.until(ExpectedConditions.elementToBeClickable(by));
+        findElement(by).click();
+    }
+
+    public WebElement findElement(By by) {
+        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(by));
+        return Driver.getDriver().findElement(by);
+    }
+
+    public MainPage productSelect() {
+        click(PRODUCT_SELECTED);
+        return this;
     }
 
     public void ifExistClick(WebElement element) {
@@ -110,7 +164,7 @@ public class MainPage {
             }
 
         } catch (Exception e) {
-            log.error("Something went wrong.");
+            log.error(element.getText()+"   elementine tiklanamadi");
         }
     }
 
@@ -119,13 +173,15 @@ public class MainPage {
         return wait.until(ExpectedConditions.visibilityOf(element));
     }
 
-    public static void waitAndClick(WebElement element, int timeout) {
+    public  void waitAndClick(WebElement element, int timeout) {
         for (int i = 0; i < timeout; i++) {
             try {
                 element.click();
+                log.info(element.getText()+" elementine tiklandi");
                 return;
             } catch (WebDriverException e) {
                 wait(1);
+                log.error(element.getText()+" elementine tiklanamadi!!!");
             }
         }
     }
@@ -151,11 +207,6 @@ public class MainPage {
         searchbox.sendKeys(Keys.ENTER);
     }
 
-//    public void clickEnter(WebElement element){
-//        action.click(element)
-//                .sendKeys(Keys.ENTER)
-//                .perform();
-//    }
 
     public void sendKeys(WebElement element, String text) {
         sendKeys(element, text);
@@ -168,78 +219,69 @@ public class MainPage {
             element.sendKeys(Keys.BACK_SPACE);
         }
     }
-    public int belirliAraliktaSayiUret (int low, int high){
+
+    public int belirliAraliktaSayiUret(int low, int high) {
         Random rand = new Random();
 
-        int R = rand.nextInt(high-low) + low;
+        int R = rand.nextInt(high - low) + low;
 
         return R;
 
     }
 
-    public void listedenRandomElementSec(List<WebElement> list){
+    public void listedenRandomElementSec(List<WebElement> list) {
+        options.addArguments("--disable-notifications");
         int listedekiUrunSayisi = list.size();
-        log.info("listedekiUrunSayisi = " + listedekiUrunSayisi);
-        int belirlenenUrun = belirliAraliktaSayiUret(0,list.size()-1);
-        String belirlenenUrunStr = String.valueOf(belirlenenUrun);
-        log.info("belirlenen urun "+ belirlenenUrunStr + "  siradaki urundur");
-         String dinamikHucreXpath = "(//*[@class='m-productCard__title'])["+belirlenenUrunStr+"]";
-        waitAndClick(Driver.getDriver().findElement(By.xpath(dinamikHucreXpath)),5);
+        log.info("ilk listedekiUrunSayisi = " + listedekiUrunSayisi);
+        int randomSayi = belirliAraliktaSayiUret(0, 3);
+        String belirlenenUrunStr = String.valueOf(randomSayi);
+        log.info("2. acilan product listesinde belirlenen urun " + belirlenenUrunStr + "  siradaki urundur");
+        for (int i = 0; i <randomSayi ; i++) {
+            String dinamikHucreXpath = "(//*[@class='m-productCard__title'])[" + belirlenenUrunStr + "]";
+            if (Driver.getDriver().findElement(By.xpath(dinamikHucreXpath)).isDisplayed() ) {
+                elementiGoreneKadarKaydirVeTikla(Driver.getDriver().findElement(By.xpath(dinamikHucreXpath)));
+                break;
+            }
+        }
+        wait(2);
+        cookieKabul2();
 
-//        try {
-//
-//
-//            //log.info("listeden belirlenen urun = "+ button.getText());
-//            //list.get(belirlenenUrun).click();
-//            if (button.isDisplayed()) {
-//                wait(2);
-//                button.click();
-//            }
-//        }
-//        catch(org.openqa.selenium.StaleElementReferenceException ex)
-//        {
-//            WebElement button = Driver.getDriver().findElement(By.xpath(dinamikHucreXpath));
-////            log.info("listeden belirlenen urun = "+ button.getText());
-////            list.get(belirlenenUrun).click();
-//            if (button.isDisplayed()) {
-//                wait(2);
-//                button.click();
-//            }
-//
-//        }
 
     }
 
-    public void listedenRandomElementSec2(List<WebElement> list){
+    public void listedenRandomElementSec2(List<WebElement> list) {
+     //   cookieKabul2();
+          options.addArguments("--disable-notifications");
         int listedekiUrunSayisi = list.size();
-        log.info("listedekiUrunSayisi = " + listedekiUrunSayisi);
+        log.info("ikinci listedekiUrunSayisi = " + listedekiUrunSayisi);
 
-        int belirlenenUrun = belirliAraliktaSayiUret(0,list.size()-1);
-        String belirlenenUrunStr = String.valueOf(belirlenenUrun);
-        log.info("belirlenen urun "+ belirlenenUrunStr + "  siradaki urundur");
-        String dinamikHucreXpath = "(//*[@class='m-productCard__desc'])["+belirlenenUrunStr+"]";
-        waitAndClick(Driver.getDriver().findElement(By.xpath(dinamikHucreXpath)),5);
+        int randomSayi = belirliAraliktaSayiUret(0, 3);
+        String belirlenenUrunStr = String.valueOf(randomSayi);
+        log.info("2. acilan product listesinde belirlenen urun " + belirlenenUrunStr + "  siradaki urundur");
+        for (int i = 0; i <randomSayi ; i++) {
+            String dinamikHucreXpath = "(//*[@class='m-productCard__desc'])[" + belirlenenUrunStr + "]";
+            if (Driver.getDriver().findElement(By.xpath(dinamikHucreXpath)).isDisplayed() ) {
+                elementiGoreneKadarKaydirVeTikla(Driver.getDriver().findElement(By.xpath(dinamikHucreXpath)));
+                break;
+            }
+        }
 
-//        try {
-//            WebElement button = Driver.getDriver().findElement(By.xpath(dinamikHucreXpath));
-////            list.get(belirlenenUrun).click();
-//            if (button.isDisplayed()) {
-//                log.info("listeden belirlenen urun = "+ button.getText());
-//                wait(2);
-//                button.click();
-//            }
-//        }
-//        catch(org.openqa.selenium.StaleElementReferenceException ex)
-//        {
-////            WebElement button = Driver.getDriver().findElement(By.xpath(dinamikHucreXpath));
-////            log.info("listeden belirlenen urun = "+ button.getText());
-//            list.get(belirlenenUrun).click();
-//            //button.click();
-//        }
+        wait(2);
+        cookieKabul2();
 
     }
+    public static void scrollIntoVIewJS(WebElement element) {
+        JavascriptExecutor jsexecutor = ((JavascriptExecutor) Driver.getDriver());
+        jsexecutor.executeScript("arguments[0].scrollIntoView(true);", element);
+    }
 
-    public void sepetAdetSec (){
+    public static void elementiGoreneKadarKaydirVeTikla(WebElement element){
+        JavascriptExecutor jse = (JavascriptExecutor) Driver.getDriver();
+        jse.executeScript("arguments[0].scrollIntoView()",element);
+        jse.executeScript("arguments[0].click();", element);
+    }
+
+    public void sepetAdetSec() {
         Select select = new Select(sepetAdetDropDown);
         select.selectByIndex(1);
         log.info("2 adet secildi");
@@ -247,15 +289,38 @@ public class MainPage {
 
     }
 
-    public void txtDosyasinaYaz (String urunBilgisi) {
-        String filename="fileToRead.txt";
-        FileWriter fw=null;
+    static String urunBilgisi;
+    static String tutarBilgisi;
+public void urunveTutarBilgisiGetirveYazdir(){
+    cookieKabul2();
+    wait(5);
+    urunBilgisi = productDetail.getText();
+    log.info("urunBilgisi = " + urunBilgisi);
+    tutarBilgisi = price.getText();
+    log.info("tutarBilgisi = " + tutarBilgisi);
+    String urunveTutar = urunBilgisi+" "+tutarBilgisi;
+    txtDosyasinaYaz(urunveTutar);
+    wait(5);
+}
+
+public void urunveTutarKarsilastir(){
+    String sepettekiFiyatStr= sepettekiFiyat.getText();
+    Control(tutarBilgisi.equals(sepettekiFiyatStr),
+            "Sepetteki fiyat urun fiyatina esit",
+            "Sepetteki fiyat urun fiyatina esit degil !!! Sepettekifiyat="+sepettekiFiyatStr+
+                    "--Urun fiyati="+tutarBilgisi);
+}
+
+
+    public void txtDosyasinaYaz(String urunBilgisi) {
+        String filename = "fileToRead.txt";
+        FileWriter fw = null;
         try {
-            fw = new FileWriter(filename,true);
-            BufferedWriter bw=new BufferedWriter(fw);
+            fw = new FileWriter(filename, true);
+            BufferedWriter bw = new BufferedWriter(fw);
             PrintWriter out = new PrintWriter(bw);
 
-            String text=urunBilgisi;
+            String text = urunBilgisi;
             out.write(text);
             log.info("txt dosyasina yazildi");
             out.close();
@@ -266,18 +331,19 @@ public class MainPage {
 //do stuff
 //open streams again and write
     }
+
     public void Control(boolean statement, String onTrue, String onFalse) {
         if (statement == true) {
-            log.info(onTrue);    }
-        else {
+            log.info(onTrue);
+        } else {
             log.info(onFalse);
-                }
+        }
     }
 
-    public void bedenOlcusuSec(){
-        wait(3);
-        for (int i = 1; i <4 ; i++) {
-            String dinamikHucreXpath = "(//*[@class='m-variation__item'])["+i+"]";
+    public void bedenOlcusuSec() {
+        wait(5);
+        for (int i = 1; i < 4; i++) {
+            String dinamikHucreXpath = "(//*[@class='m-variation__item'])[" + i + "]";
             WebElement bedenOlcusu = Driver.getDriver().findElement(By.xpath(dinamikHucreXpath));
             if (bedenOlcusu.isDisplayed()) {
                 bedenOlcusu.click();
@@ -286,15 +352,31 @@ public class MainPage {
         }
 
 
-
     }
 
-    public void sepetBosMu (){
+    public void sepetBosMu() {
         if (sepetteUrunBulunmamaktadir.isDisplayed()) {
             log.info("sepette urun bulunmamaktadir");
         } else {
             log.info("sepette urun mevcut");
         }
+
+
+    }
+    public static int rnd(){
+        Random rnd=new Random();
+        return rnd.nextInt(1,49);
     }
 
+public void cookieKabul2 () {
+    if (acceptCookiesLocator2.isDisplayed()) {
+        acceptCookiesLocator2.click();
+    }
 }
+    public static void clickWithJS(WebElement element) {
+        ((JavascriptExecutor) Driver.getDriver()).executeScript("arguments[0].scrollIntoView(true);", element);
+        ((JavascriptExecutor) Driver.getDriver()).executeScript("arguments[0].click();", element);
+    }
+}
+
+
