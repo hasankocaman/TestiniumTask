@@ -6,10 +6,10 @@ import org.junit.jupiter.api.BeforeAll;
 
 public class TrelloBaseURL {
 
-    protected RequestSpecification spec;
+    protected static RequestSpecification spec;
 
    @BeforeAll
-    public void setUp(){
+    public static void setUp(){
 
         spec = new RequestSpecBuilder().
                 setBaseUri("https://api.trello.com").

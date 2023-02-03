@@ -12,18 +12,18 @@ import java.util.concurrent.TimeUnit;
 
 public class Driver {
 
-    private Driver(){
+    public Driver(){
 
     }
 
-    private static WebDriver  driver;
+    public static WebDriver  driver;
 
     public static WebDriver getDriver(){
 
 
 
-        if(driver==null){   // bu if sayesinde kod calisirken bir kere new keyword ile driver olusturulaca
-                            // diger kullanimlarda new devreye girmeyecek
+        if(driver==null){
+
             switch (ConfigReader.getProperty("browser")){
 
                 case "chrome":

@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class C02_CreateCard extends TrelloBaseURL {
+public class C02_CreateCard  extends TrelloBaseURL{
 
     Log log = new Log();
     //63da7792c59ce5d882b0a9fd
@@ -17,13 +17,13 @@ public class C02_CreateCard extends TrelloBaseURL {
     public void createCard (){
        //Oluşturduğunuz board’ a iki tane kart oluşturunuz.
        log.info("Create Card testi basladi");
-        cardOlustur();
-        cardOlustur();
+        cardOlusturmethod();
+        cardOlusturmethod();
        log.info("Create Card testi basarili");
 
     }
 
-    public void cardOlustur(){
+    public void cardOlusturmethod(){
         spec.pathParams("pp1",1,"pp2","cards");
 //        HttpResponse<JsonNode> response = Unirest.post("https://api.trello.com/1/cards")
 //                .header("Accept", "application/json")

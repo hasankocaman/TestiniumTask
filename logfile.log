@@ -1014,3 +1014,73 @@
 2023-02-03 11:56:05,665 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942490_025 
 2023-02-03 11:56:05,687 INFO  [Log] tutarBilgisi = 1.699,00 TL 
 2023-02-03 11:56:05,688 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 12:22:17,618 INFO  [Log] Beymen UI Testi basladi 
+2023-02-03 12:22:18,150 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-03 12:22:32,114 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 12:22:32,144 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 12:22:33,580 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 12:22:34,593 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 12:22:35,171 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-03 12:22:37,487 INFO  [Log] ilk listedekiUrunSayisi = 48 
+2023-02-03 12:22:37,490 INFO  [Log] 2. acilan product listesinde belirlenen urun 0  siradaki urundur 
+2023-02-03 12:22:39,698 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 12:22:39,698 INFO  [Log] 2. acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 12:22:48,953 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942491_054 
+2023-02-03 12:22:48,977 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 12:22:48,977 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 12:23:15,257 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 12:23:15,374 INFO  [Log] 2 adet secildi 
+2023-02-03 12:23:17,400 INFO  [Log] sepetAdet = 2 
+2023-02-03 12:23:17,400 INFO  [Log] urun adedi 2 adet 
+2023-02-03 12:23:18,027 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-03 12:23:18,028 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-03 12:44:08,112 INFO  [Log] Beymen UI Testi basladi 
+2023-02-03 12:44:08,694 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-03 12:44:24,591 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-03 12:44:24,635 INFO  [Log] www.beymen.com url acildi 
+2023-02-03 12:44:26,043 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-03 12:44:27,054 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-03 12:44:28,214 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-03 12:44:28,313 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-03 12:44:28,315 INFO  [Log] 2. acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-03 12:44:33,696 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-03 12:44:33,696 INFO  [Log] 2. acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-03 12:44:45,311 INFO  [Log] urunBilgisi = %50 Polyamid,%50 Viskoz 2023 - İlkbahar / Yaz Ürün Kodu: 101942490_025 
+2023-02-03 12:44:45,335 INFO  [Log] tutarBilgisi = 1.699,00 TL 
+2023-02-03 12:44:45,336 INFO  [Log] txt dosyasina yazildi 
+2023-02-03 12:45:13,630 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-03 12:45:13,741 INFO  [Log] 2 adet secildi 
+2023-02-03 12:45:15,784 INFO  [Log] sepetAdet = 2 
+2023-02-03 12:45:15,784 INFO  [Log] urun adedi 2 adet 
+2023-02-03 12:45:16,276 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-03 12:45:16,276 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-03 13:55:19,287 INFO  [Log] Create Board testi basladi 
+2023-02-03 13:55:23,076 INFO  [Log] Create Board testi basarili 
+2023-02-03 14:01:55,724 INFO  [Log] Create Board testi basladi 
+2023-02-03 14:01:59,715 INFO  [Log] Create Board testi basarili 
+2023-02-03 14:02:08,275 INFO  [Log] Create Card testi basladi 
+2023-02-03 14:02:13,163 INFO  [Log] Create Card testi basarili 
+2023-02-03 14:02:22,321 INFO  [Log] Create List testi basladi 
+2023-02-03 14:02:22,322 INFO  [Log] Create List testi basladi 
+2023-02-03 14:02:26,015 INFO  [Log] Create List testi basarili 
+2023-02-03 14:02:26,015 INFO  [Log] Create List testi basarili 
+2023-02-03 15:00:48,144 INFO  [Log] update card testi basladi 
+2023-02-03 15:09:03,650 INFO  [Log] update card testi basladi 
+2023-02-03 15:09:40,874 INFO  [Log] Create Card testi basladi 
+2023-02-03 15:11:06,632 INFO  [Log] Create Board testi basladi 
+2023-02-03 15:11:11,090 INFO  [Log] Create Board testi basarili 
+2023-02-03 15:13:56,126 INFO  [Log] update card testi basladi 
+2023-02-03 15:17:48,858 INFO  [Log] Create Board testi basladi 
+2023-02-03 15:17:53,626 INFO  [Log] Create Board testi basarili 
+2023-02-03 15:18:40,039 INFO  [Log] update card testi basladi 
+2023-02-03 15:19:36,741 INFO  [Log] update card testi basladi 
+2023-02-03 15:38:50,799 INFO  [Log] Create List testi basladi 
+2023-02-03 15:38:50,799 INFO  [Log] Create List testi basladi 
+2023-02-03 15:38:54,976 INFO  [Log] Create List testi basarili 
+2023-02-03 15:38:54,976 INFO  [Log] Create List testi basarili 
+2023-02-03 15:39:04,852 INFO  [Log] Create Card testi basladi 
+2023-02-03 15:39:10,145 INFO  [Log] Create Card testi basarili 
+2023-02-03 15:39:17,887 INFO  [Log] Create List testi basladi 
+2023-02-03 15:39:17,887 INFO  [Log] Create List testi basladi 
+2023-02-03 15:39:21,949 INFO  [Log] Create List testi basarili 
+2023-02-03 15:39:21,949 INFO  [Log] Create List testi basarili 

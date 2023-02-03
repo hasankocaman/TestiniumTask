@@ -1,5 +1,6 @@
 package pages;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import logger.Log;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -20,8 +21,7 @@ import java.io.PrintWriter;
 import java.time.Duration;
 import java.util.List;
 import java.util.Random;
-import org.openqa.selenium.support.ui.Select;
-
+import java.time.Duration;
 import static org.testng.AssertJUnit.assertEquals;
 
 
@@ -87,7 +87,6 @@ public class MainPage {
 
 
     public void setUp() {
-
 
 //        - www.beymen.com sitesi açılır.
 //        - Ana sayfanın açıldığı kontrol edilir.
@@ -291,6 +290,7 @@ public class MainPage {
 
     static String urunBilgisi;
     static String tutarBilgisi;
+    static String urunveTutar;
 public void urunveTutarBilgisiGetirveYazdir(){
     cookieKabul2();
     wait(5);
@@ -298,7 +298,7 @@ public void urunveTutarBilgisiGetirveYazdir(){
     log.info("urunBilgisi = " + urunBilgisi);
     tutarBilgisi = price.getText();
     log.info("tutarBilgisi = " + tutarBilgisi);
-    String urunveTutar = urunBilgisi+" "+tutarBilgisi;
+    urunveTutar = urunBilgisi+" "+tutarBilgisi;
     txtDosyasinaYaz(urunveTutar);
     wait(5);
 }

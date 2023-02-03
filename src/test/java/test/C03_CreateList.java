@@ -8,13 +8,23 @@ import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
+
 public class C03_CreateList extends TrelloBaseURL {
     Log log = new Log();
+
 
     @Test
     public void createList (){
         log.info("Create List testi basladi");
-     spec.pathParams("pp1",1,"pp2","lists");
+        createListMethod();
+        log.info("Create List testi basarili");
+
+}
+
+
+    public void createListMethod (){
+        log.info("Create List testi basladi");
+        spec.pathParams("pp1",1,"pp2","lists");
 //        HttpResponse<String> response = Unirest.post("https://api.trello.com/1/boards/")
 //                .queryString("name", "{name}")
 //                .queryString("key", "APIKey")
@@ -28,13 +38,12 @@ public class C03_CreateList extends TrelloBaseURL {
         spec.queryParam("idBoard", "63da759455d4fc60d79e548f");
         spec.queryParam("token","ATTA6f6faf0d467eb7e53d5b1bc6447a51202b1a905f5ac772e29a4afa900522b532D25301F4");
 
-    Response response=    given().spec(spec)
-            .contentType(ContentType.JSON).when().post("/{pp1}/{pp2}");
+        Response response=    given().spec(spec)
+                .contentType(ContentType.JSON).when().post("/{pp1}/{pp2}");
 
-response.prettyPrint();
+        response.prettyPrint();
         log.info("Create List testi basarili");
 
-}
-
+    }
 
 }
