@@ -1084,3 +1084,1034 @@
 2023-02-03 15:39:17,887 INFO  [Log] Create List testi basladi 
 2023-02-03 15:39:21,949 INFO  [Log] Create List testi basarili 
 2023-02-03 15:39:21,949 INFO  [Log] Create List testi basarili 
+2023-02-05 17:05:35,669 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 17:05:36,671 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 17:05:50,251 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 17:05:50,282 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 17:05:51,764 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 17:05:52,777 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 17:05:53,188 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 17:05:53,288 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 17:05:53,290 INFO  [Log] 2. acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-05 17:05:55,883 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-05 17:05:55,883 INFO  [Log] 2. acilan product listesinde belirlenen urun 0  siradaki urundur 
+2023-02-05 17:07:22,973 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 17:07:23,581 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 17:07:33,266 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 17:07:33,300 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 17:07:34,771 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 17:07:35,777 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 17:07:36,513 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 17:07:38,143 INFO  [Log] ilk listedekiUrunSayisi = 48 
+2023-02-05 17:07:38,151 INFO  [Log] 2. acilan product listesinde belirlenen urun 40  siradaki urundur 
+2023-02-05 17:07:44,163 INFO  [Log] ikinci listedekiUrunSayisi = 146 
+2023-02-05 17:07:44,163 INFO  [Log] 2. acilan product listesinde belirlenen urun 75  siradaki urundur 
+2023-02-05 17:09:24,677 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 17:09:25,942 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 17:09:33,733 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 17:09:33,761 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 17:09:35,420 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 17:09:36,425 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 17:09:36,885 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 17:09:36,990 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 17:09:36,992 INFO  [Log] 2. acilan product listesinde belirlenen urun 38  siradaki urundur 
+2023-02-05 17:15:24,891 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 17:15:25,791 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 17:15:35,569 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 17:15:35,667 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 17:15:37,169 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 17:15:38,176 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 17:15:39,038 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 17:15:40,779 INFO  [Log] ilk listedekiUrunSayisi = 48 
+2023-02-05 17:15:40,786 INFO  [Log] 2. acilan product listesinde belirlenen urun 35  siradaki urundur 
+2023-02-05 17:15:43,218 INFO  [Log] Academia  elementi goruldu 
+2023-02-05 17:18:36,958 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 17:18:38,284 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 17:18:49,527 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 17:18:49,572 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 17:18:50,935 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 17:18:51,942 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 17:18:52,975 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 17:18:57,077 INFO  [Log] ilk listedekiUrunSayisi = 48 
+2023-02-05 17:18:57,085 INFO  [Log] 2. acilan product listesinde belirlenen urun 18  siradaki urundur 
+2023-02-05 17:19:00,167 INFO  [Log] Beymen Club  elementi goruldu 
+2023-02-05 17:29:24,126 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 17:29:25,016 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 17:29:38,465 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 17:29:38,492 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 17:29:39,872 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 17:29:40,885 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 17:29:41,371 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 17:29:43,483 INFO  [Log] ilk listedekiUrunSayisi = 48 
+2023-02-05 17:29:43,488 INFO  [Log] 2. acilan product listesinde belirlenen urun 20  siradaki urundur 
+2023-02-05 17:29:46,247 INFO  [Log] Academia  elementi goruldu 
+2023-02-05 17:29:48,273 INFO  [Log] Academia  elementi tiklandi 
+2023-02-05 18:03:00,168 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 18:03:00,897 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 18:03:12,459 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 18:03:12,508 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 18:03:14,017 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 18:03:15,030 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 18:03:15,586 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 18:03:15,692 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 18:03:15,694 INFO  [Log] 2. acilan product listesinde belirlenen urun 48  siradaki urundur 
+2023-02-05 18:06:06,267 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 18:06:07,285 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 18:06:22,839 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 18:06:22,871 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 18:06:24,378 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 18:06:25,385 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 18:06:25,759 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 18:06:28,031 INFO  [Log] ilk listedekiUrunSayisi = 48 
+2023-02-05 18:06:28,038 INFO  [Log] 2. acilan product listesinde belirlenen urun 14  siradaki urundur 
+2023-02-05 18:06:33,694 INFO  [Log] Academia  elementi goruldu 
+2023-02-05 18:11:33,069 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 18:11:34,220 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 18:11:47,666 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 18:11:47,699 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 18:11:49,104 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 18:11:50,110 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 18:11:51,068 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 18:11:51,271 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 18:11:51,275 INFO  [Log] ilk acilan product listesinde belirlenen urun 93  siradaki urundur 
+2023-02-05 18:13:48,693 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 18:13:50,421 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 18:14:03,871 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 18:14:04,053 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 18:14:05,656 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 18:14:06,661 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 18:14:07,175 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 18:14:07,441 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 18:14:07,445 INFO  [Log] ilk acilan product listesinde belirlenen urun 47  siradaki urundur 
+2023-02-05 18:16:13,889 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 18:16:15,070 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 18:16:24,510 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 18:16:24,538 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 18:16:25,979 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 18:16:26,989 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 18:16:27,874 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 18:16:27,993 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 18:16:27,995 INFO  [Log] ilk acilan product listesinde belirlenen urun 88  siradaki urundur 
+2023-02-05 19:53:52,052 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 19:53:53,679 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 19:54:11,116 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 19:54:11,161 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 19:54:12,658 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 19:54:13,671 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 19:54:15,366 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 19:54:15,554 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 19:54:15,557 INFO  [Log] ilk acilan product listesinde belirlenen urun 34  siradaki urundur 
+2023-02-05 19:54:18,373 INFO  [Log] tiklanacak urun = Academia 
+2023-02-05 19:54:28,798 INFO  [Log] Academia  elementi goruldu 
+2023-02-05 19:57:57,023 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 19:57:58,446 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 19:58:14,629 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 19:58:14,711 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 19:58:16,217 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 19:58:17,226 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 19:58:18,109 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 19:58:18,415 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 19:58:18,425 INFO  [Log] ilk acilan product listesinde belirlenen urun 93  siradaki urundur 
+2023-02-05 19:59:21,118 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 19:59:22,524 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 19:59:31,778 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 19:59:31,828 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 19:59:33,791 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 19:59:34,796 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 19:59:35,957 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 19:59:36,080 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 19:59:36,083 INFO  [Log] ilk acilan product listesinde belirlenen urun 28  siradaki urundur 
+2023-02-05 20:00:57,280 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:00:58,550 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:01:09,837 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:01:09,928 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:01:11,609 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:01:12,619 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:01:14,103 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:01:14,295 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:01:14,297 INFO  [Log] ilk acilan product listesinde belirlenen urun 53  siradaki urundur 
+2023-02-05 20:02:29,694 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:02:30,824 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:02:48,711 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:02:48,757 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:02:50,329 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:02:51,343 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:02:51,866 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:02:51,984 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:02:51,987 INFO  [Log] ilk acilan product listesinde belirlenen urun 60  siradaki urundur 
+2023-02-05 20:06:15,959 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:06:17,259 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:06:23,231 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:06:23,279 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:06:25,144 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:06:26,144 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:06:26,748 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:06:26,861 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:06:26,863 INFO  [Log] ilk acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-05 20:06:32,294 INFO  [Log] Never Stop Thermal Yeşil Unisex Çocuk Ceket  elementi tiklandi 
+2023-02-05 20:06:34,541 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-05 20:06:34,541 INFO  [Log] 2. acilan product listesinde belirlenen urun 47  siradaki urundur 
+2023-02-05 20:06:44,674 INFO  [Log] Beyaz Logo Detaylı Gömlek  elementi goruldu 
+2023-02-05 20:06:52,888 INFO  [Log] Beyaz Logo Detaylı Gömlek  elementi tiklandi 
+2023-02-05 20:12:15,755 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:12:17,278 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:12:32,744 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:12:32,781 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:12:34,334 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:12:35,343 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:12:36,134 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:12:36,262 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:12:36,263 INFO  [Log] ilk acilan product listesinde belirlenen urun 65  siradaki urundur 
+2023-02-05 20:13:48,818 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:13:50,301 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:14:01,771 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:14:01,805 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:14:03,634 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:14:04,649 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:14:05,592 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:14:05,741 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:14:05,743 INFO  [Log] ilk acilan product listesinde belirlenen urun 71  siradaki urundur 
+2023-02-05 20:16:48,066 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:16:49,507 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:17:05,402 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:17:05,444 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:17:06,978 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:17:07,990 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:17:08,827 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:17:08,969 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:17:08,972 INFO  [Log] ilk acilan product listesinde belirlenen urun 64  siradaki urundur 
+2023-02-05 20:32:40,339 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:32:41,792 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:32:57,322 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:32:57,384 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:32:59,043 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:33:00,055 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:33:00,644 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:33:00,803 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:33:00,807 INFO  [Log] ilk acilan product listesinde belirlenen urun 44  siradaki urundur 
+2023-02-05 20:33:02,169 INFO  [Log] cookie tiklandi 
+2023-02-05 20:33:03,303 INFO  [Log]   elementi tiklandi 
+2023-02-05 20:35:31,107 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:35:32,201 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:35:48,383 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:35:48,465 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:35:50,157 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:35:51,172 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:35:51,725 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:35:51,847 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:35:51,849 INFO  [Log] ilk acilan product listesinde belirlenen urun 61  siradaki urundur 
+2023-02-05 20:35:54,725 INFO  [Log] cookie tiklandi 
+2023-02-05 20:38:16,894 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:38:18,450 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:38:31,626 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:38:31,657 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:38:33,165 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:38:34,177 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:38:34,657 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:38:34,779 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:38:34,783 INFO  [Log] ilk acilan product listesinde belirlenen urun 88  siradaki urundur 
+2023-02-05 20:38:36,880 INFO  [Log] cookie tiklandi 
+2023-02-05 20:39:34,345 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:39:35,584 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:39:48,261 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:39:48,304 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:39:49,836 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:39:50,841 ERROR [Log] Cerezler kabul edilemedi. 
+2023-02-05 20:39:51,510 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:39:51,742 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:39:51,748 INFO  [Log] ilk acilan product listesinde belirlenen urun 68  siradaki urundur 
+2023-02-05 20:39:54,237 INFO  [Log] cookie tiklandi 
+2023-02-05 20:39:54,978 INFO  [Log] FAVORİLERE / SEPETE EKLE  elementi tiklandi 
+2023-02-05 20:41:22,453 INFO  [Log] Beymen UI Testi basladi 
+2023-02-05 20:41:23,663 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-05 20:41:31,863 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-05 20:41:31,981 INFO  [Log] www.beymen.com url acildi 
+2023-02-05 20:41:33,844 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-05 20:41:35,101 INFO  [Log] cookie tiklandi 
+2023-02-05 20:41:35,857 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-05 20:41:36,039 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-05 20:41:36,041 INFO  [Log] ilk acilan product listesinde belirlenen urun 6  siradaki urundur 
+2023-02-10 14:53:35,682 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 14:53:36,475 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 14:53:41,621 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 14:53:41,650 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 14:53:43,265 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 14:53:44,458 INFO  [Log] cookie tiklandi 
+2023-02-10 14:53:45,195 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 14:53:45,352 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 14:53:45,354 INFO  [Log] ilk acilan product listesinde belirlenen urun 3  siradaki urundur 
+2023-02-10 14:54:17,949 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 14:54:19,274 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 14:54:24,246 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 14:54:24,272 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 14:54:25,780 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 14:54:26,969 INFO  [Log] cookie tiklandi 
+2023-02-10 14:54:27,577 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 14:54:27,681 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 14:54:27,683 INFO  [Log] ilk acilan product listesinde belirlenen urun 97  siradaki urundur 
+2023-02-10 14:54:30,545 INFO  [Log]   elementi tiklandi 
+2023-02-10 14:54:35,778 INFO  [Log] cookie tiklandi 
+2023-02-10 15:00:11,405 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:00:12,373 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:00:17,379 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:00:17,399 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:00:18,947 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:00:20,133 INFO  [Log] cookie tiklandi 
+2023-02-10 15:00:20,721 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:00:20,811 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:00:20,813 INFO  [Log] ilk acilan product listesinde belirlenen urun 72  siradaki urundur 
+2023-02-10 15:05:09,005 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:05:10,312 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:05:15,251 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:05:15,272 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:05:16,730 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:05:17,935 INFO  [Log] cookie tiklandi 
+2023-02-10 15:05:18,781 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:05:19,099 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:05:19,103 INFO  [Log] ilk acilan product listesinde belirlenen urun 15  siradaki urundur 
+2023-02-10 15:05:22,000 INFO  [Log] cookie tiklandi 
+2023-02-10 15:05:22,848 INFO  [Log] FAVORİLERE / SEPETE EKLE  elementi tiklandi 
+2023-02-10 15:06:36,903 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:06:37,788 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:06:42,736 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:06:42,756 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:06:44,262 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:06:45,451 INFO  [Log] cookie tiklandi 
+2023-02-10 15:06:46,017 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:06:46,109 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:06:46,110 INFO  [Log] ilk acilan product listesinde belirlenen urun 64  siradaki urundur 
+2023-02-10 15:06:49,172 INFO  [Log] cookie tiklandi 
+2023-02-10 15:09:49,287 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:09:50,150 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:09:54,868 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:09:54,891 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:09:56,442 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:09:57,644 INFO  [Log] cookie tiklandi 
+2023-02-10 15:09:58,250 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:09:58,365 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:09:58,367 INFO  [Log] ilk acilan product listesinde belirlenen urun 10  siradaki urundur 
+2023-02-10 15:10:01,612 INFO  [Log] cookie tiklandi 
+2023-02-10 15:10:04,817 INFO  [Log]   elementi tiklandi 
+2023-02-10 15:15:56,592 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:15:57,483 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:16:02,906 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:16:02,929 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:16:04,447 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:16:05,632 INFO  [Log] cookie tiklandi 
+2023-02-10 15:16:06,215 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:16:06,360 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:16:06,362 INFO  [Log] ilk acilan product listesinde belirlenen urun 34  siradaki urundur 
+2023-02-10 15:16:09,301 INFO  [Log] cookie tiklandi 
+2023-02-10 15:16:12,436 INFO  [Log]   elementi tiklandi 
+2023-02-10 15:16:17,553 INFO  [Log] XS   bedeni secildi 
+2023-02-10 15:18:34,849 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:18:36,358 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:18:42,135 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:18:42,155 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:18:43,672 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:18:44,871 INFO  [Log] cookie tiklandi 
+2023-02-10 15:18:45,371 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:18:45,519 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:18:45,521 INFO  [Log] ilk acilan product listesinde belirlenen urun 20  siradaki urundur 
+2023-02-10 15:18:48,410 INFO  [Log] cookie tiklandi 
+2023-02-10 15:18:52,143 INFO  [Log]   elementi tiklandi 
+2023-02-10 15:18:57,241 INFO  [Log] S   bedeni secildi 
+2023-02-10 15:18:57,299 INFO  [Log] sepete eklendi 
+2023-02-10 15:20:49,836 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:20:50,781 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:20:56,486 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:20:56,512 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:20:58,108 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:20:59,414 INFO  [Log] cookie tiklandi 
+2023-02-10 15:21:00,149 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:21:00,329 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:21:00,331 INFO  [Log] ilk acilan product listesinde belirlenen urun 96  siradaki urundur 
+2023-02-10 15:21:03,443 INFO  [Log] cookie tiklandi 
+2023-02-10 15:23:40,643 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:23:41,871 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:23:47,247 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:23:47,274 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:23:48,760 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:23:49,995 INFO  [Log] cookie tiklandi 
+2023-02-10 15:23:50,795 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:23:50,966 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:23:50,970 INFO  [Log] ilk acilan product listesinde belirlenen urun 35  siradaki urundur 
+2023-02-10 15:23:54,733 INFO  [Log] cookie tiklandi 
+2023-02-10 15:23:58,019 INFO  [Log]   elementi tiklandi 
+2023-02-10 15:24:03,188 INFO  [Log] 34   bedeni secildi 
+2023-02-10 15:24:03,286 INFO  [Log] sepete eklendi 
+2023-02-10 15:25:05,920 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:25:07,000 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:25:12,531 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:25:12,561 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:25:14,158 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:25:15,385 INFO  [Log] cookie tiklandi 
+2023-02-10 15:25:15,909 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:25:16,168 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:25:16,172 INFO  [Log] ilk acilan product listesinde belirlenen urun 88  siradaki urundur 
+2023-02-10 15:25:19,149 INFO  [Log] cookie tiklandi 
+2023-02-10 15:26:12,885 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:26:14,292 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:26:19,285 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:26:19,308 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:26:20,855 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:26:22,040 INFO  [Log] cookie tiklandi 
+2023-02-10 15:26:22,646 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:26:22,744 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:26:22,746 INFO  [Log] ilk acilan product listesinde belirlenen urun 68  siradaki urundur 
+2023-02-10 15:26:25,361 INFO  [Log] cookie tiklandi 
+2023-02-10 15:27:56,643 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:27:57,511 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:28:02,366 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:28:02,387 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:28:03,928 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:28:05,113 INFO  [Log] cookie tiklandi 
+2023-02-10 15:28:05,660 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:28:05,747 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:28:05,749 INFO  [Log] ilk acilan product listesinde belirlenen urun 26  siradaki urundur 
+2023-02-10 15:28:08,414 INFO  [Log] cookie tiklandi 
+2023-02-10 15:28:13,532 INFO  [Log]   elementi tiklandi 
+2023-02-10 15:29:56,007 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:29:56,681 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:30:01,259 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:30:01,279 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:30:02,764 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:30:03,958 INFO  [Log] cookie tiklandi 
+2023-02-10 15:30:04,506 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:30:04,650 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:30:04,651 INFO  [Log] ilk acilan product listesinde belirlenen urun 46  siradaki urundur 
+2023-02-10 15:30:06,920 INFO  [Log] cookie tiklandi 
+2023-02-10 15:30:12,785 INFO  [Log]   elementi tiklandi 
+2023-02-10 15:42:01,209 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 15:42:02,098 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 15:42:06,762 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 15:42:06,786 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 15:42:08,435 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 15:42:09,626 INFO  [Log] cookie tiklandi 
+2023-02-10 15:42:10,077 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 15:42:10,192 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 15:42:10,194 INFO  [Log] ilk acilan product listesinde belirlenen urun 29  siradaki urundur 
+2023-02-10 15:42:12,921 INFO  [Log] cookie tiklandi 
+2023-02-10 15:42:18,614 INFO  [Log]   elementi tiklandi 
+2023-02-10 17:26:55,413 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 17:26:56,933 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 17:27:01,879 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 17:27:01,909 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 17:27:03,434 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 17:27:04,728 INFO  [Log] cookie tiklandi 
+2023-02-10 17:27:05,735 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 17:27:05,886 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 17:27:05,888 INFO  [Log] ilk acilan product listesinde belirlenen urun 76  siradaki urundur 
+2023-02-10 17:27:08,722 INFO  [Log] cookie tiklandi 
+2023-02-10 17:28:11,965 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 17:28:13,446 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 17:28:18,940 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 17:28:18,970 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 17:28:20,516 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 17:28:21,801 INFO  [Log] cookie tiklandi 
+2023-02-10 17:28:22,881 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 17:28:22,990 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 17:28:22,994 INFO  [Log] ilk acilan product listesinde belirlenen urun 92  siradaki urundur 
+2023-02-10 17:28:26,034 INFO  [Log] cookie tiklandi 
+2023-02-10 17:33:32,625 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 17:33:34,359 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 17:33:40,018 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 17:33:40,053 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 17:33:41,606 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 17:33:42,860 INFO  [Log] cookie tiklandi 
+2023-02-10 17:33:43,933 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 17:33:44,148 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 17:33:44,151 INFO  [Log] ilk acilan product listesinde belirlenen urun 60  siradaki urundur 
+2023-02-10 17:33:46,948 INFO  [Log] cookie tiklandi 
+2023-02-10 17:42:47,171 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 17:42:48,950 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 17:42:57,158 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 17:42:57,343 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 17:42:59,733 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 17:43:01,182 INFO  [Log] cookie tiklandi 
+2023-02-10 17:43:02,146 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 17:43:02,269 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 17:43:02,271 INFO  [Log] ilk acilan product listesinde belirlenen urun 43  siradaki urundur 
+2023-02-10 17:43:05,406 INFO  [Log] cookie tiklandi 
+2023-02-10 18:00:28,774 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 18:00:30,309 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 18:00:35,987 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 18:00:36,043 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 18:00:37,770 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 18:00:39,064 INFO  [Log] cookie tiklandi 
+2023-02-10 18:00:39,759 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 18:00:40,041 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 18:00:40,046 INFO  [Log] ilk acilan product listesinde belirlenen urun 14  siradaki urundur 
+2023-02-10 18:00:42,596 INFO  [Log] cookie tiklandi 
+2023-02-10 18:03:37,793 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 18:03:39,173 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 18:03:44,826 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 18:03:44,873 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 18:03:46,548 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 18:03:47,769 INFO  [Log] cookie tiklandi 
+2023-02-10 18:03:48,518 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 18:03:48,621 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 18:03:48,623 INFO  [Log] ilk acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-10 18:03:55,688 INFO  [Log] cookie tiklandi 
+2023-02-10 18:04:05,826 INFO  [Log]   elementi tiklandi 
+2023-02-10 18:24:57,766 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 18:24:59,232 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 18:25:05,057 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 18:25:05,133 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 18:25:06,911 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 18:25:08,231 INFO  [Log] cookie tiklandi 
+2023-02-10 18:25:09,201 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 18:25:09,330 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 18:25:09,336 INFO  [Log] ilk acilan product listesinde belirlenen urun 31  siradaki urundur 
+2023-02-10 18:25:11,974 INFO  [Log] cookie tiklandi 
+2023-02-10 18:25:22,062 INFO  [Log]   elementi tiklandi 
+2023-02-10 18:25:30,104 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 18:25:30,104 INFO  [Log] 2. acilan product listesinde belirlenen urun 10  siradaki urundur 
+2023-02-10 18:25:35,208 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 18:30:36,425 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 18:30:37,859 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 18:30:43,770 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 18:30:43,797 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 18:30:45,306 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 18:30:46,645 INFO  [Log] cookie tiklandi 
+2023-02-10 18:30:47,438 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 18:30:47,612 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 18:30:47,628 INFO  [Log] ilk acilan product listesinde belirlenen urun 87  siradaki urundur 
+2023-02-10 18:30:50,146 INFO  [Log] cookie tiklandi 
+2023-02-10 18:32:59,894 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 18:33:01,338 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 18:33:06,593 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 18:33:06,640 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 18:33:08,206 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 18:33:09,496 INFO  [Log] cookie tiklandi 
+2023-02-10 18:33:10,430 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 18:33:10,671 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 18:33:10,674 INFO  [Log] ilk acilan product listesinde belirlenen urun 57  siradaki urundur 
+2023-02-10 18:33:13,522 INFO  [Log] cookie tiklandi 
+2023-02-10 19:30:48,067 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 19:30:49,703 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 19:30:55,689 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 19:30:55,736 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 19:30:57,366 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 19:30:58,757 INFO  [Log] cookie tiklandi 
+2023-02-10 19:30:59,594 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 19:30:59,732 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 19:30:59,735 INFO  [Log] ilk acilan product listesinde belirlenen urun 91  siradaki urundur 
+2023-02-10 19:31:02,477 INFO  [Log] cookie tiklandi 
+2023-02-10 19:32:10,660 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 19:32:11,962 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 19:32:17,395 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 19:32:17,425 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 19:32:18,957 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 19:32:20,291 INFO  [Log] cookie tiklandi 
+2023-02-10 19:32:21,513 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 19:32:21,648 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 19:32:21,652 INFO  [Log] ilk acilan product listesinde belirlenen urun 21  siradaki urundur 
+2023-02-10 19:32:24,497 INFO  [Log] cookie tiklandi 
+2023-02-10 19:33:27,316 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 19:33:28,861 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 19:33:34,571 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 19:33:34,598 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 19:33:36,121 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 19:33:37,465 INFO  [Log] cookie tiklandi 
+2023-02-10 19:33:38,378 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 19:33:38,527 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 19:33:38,529 INFO  [Log] ilk acilan product listesinde belirlenen urun 51  siradaki urundur 
+2023-02-10 19:33:43,693 INFO  [Log] cookie tiklandi 
+2023-02-10 20:11:18,158 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:11:19,170 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:11:27,365 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:11:27,408 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:11:29,152 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:11:30,382 INFO  [Log] cookie tiklandi 
+2023-02-10 20:11:31,091 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:11:31,197 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:11:31,199 INFO  [Log] ilk acilan product listesinde belirlenen urun 67  siradaki urundur 
+2023-02-10 20:11:33,797 INFO  [Log] cookie tiklandi 
+2023-02-10 20:14:01,470 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:14:02,539 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:14:07,456 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:14:07,508 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:14:09,181 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:14:10,486 INFO  [Log] cookie tiklandi 
+2023-02-10 20:14:11,456 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:14:11,564 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:14:11,566 INFO  [Log] ilk acilan product listesinde belirlenen urun 24  siradaki urundur 
+2023-02-10 20:14:14,308 INFO  [Log] cookie tiklandi 
+2023-02-10 20:14:24,515 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:14:32,547 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:14:32,547 INFO  [Log] 2. acilan product listesinde belirlenen urun 16  siradaki urundur 
+2023-02-10 20:14:42,669 INFO  [Log] GÖMLEK  elementi goruldu 
+2023-02-10 20:14:47,715 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:22:05,542 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:22:07,143 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:22:13,866 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:22:13,963 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:22:15,689 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:22:17,008 INFO  [Log] cookie tiklandi 
+2023-02-10 20:22:17,830 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:22:17,965 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:22:17,968 INFO  [Log] ilk acilan product listesinde belirlenen urun 37  siradaki urundur 
+2023-02-10 20:22:20,745 INFO  [Log] cookie tiklandi 
+2023-02-10 20:22:31,125 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:22:39,171 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:22:39,172 INFO  [Log] 2. acilan product listesinde belirlenen urun 11  siradaki urundur 
+2023-02-10 20:22:44,336 INFO  [Log] GÖMLEK  elementi goruldu 
+2023-02-10 20:23:56,959 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:23:57,660 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:24:03,232 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:24:03,284 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:24:05,031 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:24:06,339 INFO  [Log] cookie tiklandi 
+2023-02-10 20:24:07,328 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:24:07,547 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:24:07,549 INFO  [Log] ilk acilan product listesinde belirlenen urun 37  siradaki urundur 
+2023-02-10 20:24:10,151 INFO  [Log] cookie tiklandi 
+2023-02-10 20:24:20,387 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:24:28,408 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:24:28,409 INFO  [Log] 2. acilan product listesinde belirlenen urun 40  siradaki urundur 
+2023-02-10 20:24:33,511 INFO  [Log] GÖMLEK  elementi goruldu 
+2023-02-10 20:25:25,013 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:25:26,422 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:25:31,780 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:25:31,805 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:25:33,342 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:25:34,674 INFO  [Log] cookie tiklandi 
+2023-02-10 20:25:35,653 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:25:35,846 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:25:35,851 INFO  [Log] ilk acilan product listesinde belirlenen urun 27  siradaki urundur 
+2023-02-10 20:25:38,389 INFO  [Log] cookie tiklandi 
+2023-02-10 20:25:48,644 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:25:56,697 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:25:56,697 INFO  [Log] 2. acilan product listesinde belirlenen urun 34  siradaki urundur 
+2023-02-10 20:26:01,860 INFO  [Log] GÖMLEK  elementi goruldu 
+2023-02-10 20:26:11,749 INFO  [Log]  element tiklandi 
+2023-02-10 20:26:22,929 INFO  [Log] L   bedeni secildi 
+2023-02-10 20:26:23,013 INFO  [Log] sepete eklendi 
+2023-02-10 20:35:55,619 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:35:57,028 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:36:02,621 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:36:02,645 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:36:04,156 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:36:05,405 INFO  [Log] cookie tiklandi 
+2023-02-10 20:36:06,431 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:36:06,701 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:36:06,703 INFO  [Log] ilk acilan product listesinde belirlenen urun 7  siradaki urundur 
+2023-02-10 20:36:09,652 INFO  [Log] cookie tiklandi 
+2023-02-10 20:36:19,888 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:36:27,943 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:36:27,943 INFO  [Log] 2. acilan product listesinde belirlenen urun 9  siradaki urundur 
+2023-02-10 20:36:33,087 INFO  [Log] Slim Fit Taş Polo Yaka Kısa Kollu Triko Gömlek  elementi goruldu 
+2023-02-10 20:36:41,546 INFO  [Log]  element tiklandi 
+2023-02-10 20:38:56,732 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:38:58,104 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:39:03,126 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:39:03,155 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:39:04,662 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:39:06,017 INFO  [Log] cookie tiklandi 
+2023-02-10 20:39:07,026 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:39:07,180 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:39:07,184 INFO  [Log] ilk acilan product listesinde belirlenen urun 2  siradaki urundur 
+2023-02-10 20:39:09,908 INFO  [Log] cookie tiklandi 
+2023-02-10 20:39:20,091 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:39:28,161 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:39:28,162 INFO  [Log] 2. acilan product listesinde belirlenen urun 25  siradaki urundur 
+2023-02-10 20:39:33,340 INFO  [Log] GÖMLEK  elementi goruldu 
+2023-02-10 20:39:42,501 INFO  [Log]  element tiklandi 
+2023-02-10 20:39:58,596 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 20:39:58,621 INFO  [Log] tutarBilgisi = 2.549,00 TL 
+2023-02-10 20:39:58,621 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 20:41:02,203 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:41:03,643 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:41:09,378 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:41:09,402 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:41:10,915 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:41:12,230 INFO  [Log] cookie tiklandi 
+2023-02-10 20:41:13,280 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:41:13,461 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:41:13,465 INFO  [Log] ilk acilan product listesinde belirlenen urun 35  siradaki urundur 
+2023-02-10 20:41:16,240 INFO  [Log] cookie tiklandi 
+2023-02-10 20:41:26,453 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:41:34,525 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:41:34,526 INFO  [Log] 2. acilan product listesinde belirlenen urun 33  siradaki urundur 
+2023-02-10 20:41:39,677 INFO  [Log] GÖMLEK  elementi goruldu 
+2023-02-10 20:41:49,481 INFO  [Log]  element tiklandi 
+2023-02-10 20:42:05,578 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 20:42:05,614 INFO  [Log] tutarBilgisi = 13.250,00 TL 
+2023-02-10 20:42:05,616 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 20:44:00,696 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:44:02,121 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:44:07,577 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:44:07,618 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:44:09,436 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:44:10,717 INFO  [Log] cookie tiklandi 
+2023-02-10 20:44:11,705 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:44:11,929 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:44:11,933 INFO  [Log] ilk acilan product listesinde belirlenen urun 35  siradaki urundur 
+2023-02-10 20:44:14,727 INFO  [Log] cookie tiklandi 
+2023-02-10 20:44:24,987 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:44:33,016 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:44:33,016 INFO  [Log] 2. acilan product listesinde belirlenen urun 15  siradaki urundur 
+2023-02-10 20:46:20,950 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:46:22,683 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:46:28,407 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:46:28,470 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:46:30,324 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:46:31,585 INFO  [Log] cookie tiklandi 
+2023-02-10 20:46:32,595 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:46:32,910 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:46:32,917 INFO  [Log] ilk acilan product listesinde belirlenen urun 19  siradaki urundur 
+2023-02-10 20:46:35,997 INFO  [Log] cookie tiklandi 
+2023-02-10 20:46:46,512 INFO  [Log] Comfort Fit Siyah Keten Dokuma Gömlek  elementi tiklandi 
+2023-02-10 20:46:54,581 INFO  [Log] ikinci listedekiUrunSayisi = 48 
+2023-02-10 20:46:54,582 INFO  [Log] 2. acilan product listesinde belirlenen urun 39  siradaki urundur 
+2023-02-10 20:46:59,984 INFO  [Log] GÖMLEK  elementi tiklandi 
+2023-02-10 20:49:17,265 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 20:49:18,167 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 20:49:23,040 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 20:49:23,068 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 20:49:24,741 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 20:49:25,946 INFO  [Log] cookie tiklandi 
+2023-02-10 20:49:26,642 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 20:49:26,764 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 20:49:26,766 INFO  [Log] ilk acilan product listesinde belirlenen urun 40  siradaki urundur 
+2023-02-10 20:49:29,534 INFO  [Log] cookie tiklandi 
+2023-02-10 21:11:52,651 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:11:53,173 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:11:57,967 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:11:57,995 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:11:59,632 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:12:00,830 INFO  [Log] cookie tiklandi 
+2023-02-10 21:12:01,479 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:12:01,580 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:12:01,581 INFO  [Log] ilk acilan product listesinde belirlenen urun 1  siradaki urundur 
+2023-02-10 21:12:04,582 INFO  [Log] cookie tiklandi 
+2023-02-10 21:13:12,553 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:13:13,149 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:13:18,825 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:13:18,856 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:13:20,585 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:13:21,806 INFO  [Log] cookie tiklandi 
+2023-02-10 21:13:22,442 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:13:22,541 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:13:22,543 INFO  [Log] ilk acilan product listesinde belirlenen urun 6  siradaki urundur 
+2023-02-10 21:13:25,234 INFO  [Log] cookie tiklandi 
+2023-02-10 21:16:48,895 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:16:50,211 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:16:55,489 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:16:55,526 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:16:57,073 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:16:58,303 INFO  [Log] cookie tiklandi 
+2023-02-10 21:16:58,921 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:16:59,045 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:16:59,047 INFO  [Log] ilk acilan product listesinde belirlenen urun 44 . siradaki urundur 
+2023-02-10 21:17:02,752 INFO  [Log] cookie tiklandi 
+2023-02-10 21:17:22,716 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 21:17:22,740 INFO  [Log] tutarBilgisi = 33.450,00 TL 
+2023-02-10 21:17:22,741 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:17:27,881 INFO  [Log] 48   bedeni secildi 
+2023-02-10 21:17:27,966 INFO  [Log] sepete eklendi 
+2023-02-10 21:19:03,728 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:19:04,626 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:19:10,664 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:19:10,689 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:19:12,274 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:19:13,498 INFO  [Log] cookie tiklandi 
+2023-02-10 21:19:14,512 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:19:14,748 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:19:14,753 INFO  [Log] ilk acilan product listesinde belirlenen urun 37 . siradaki urundur 
+2023-02-10 21:19:18,053 INFO  [Log] cookie tiklandi 
+2023-02-10 21:19:35,640 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 21:19:35,666 INFO  [Log] tutarBilgisi = 25.950,00 TL 
+2023-02-10 21:19:35,667 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:19:40,818 INFO  [Log] 40   bedeni secildi 
+2023-02-10 21:19:40,900 INFO  [Log] sepete eklendi 
+2023-02-10 21:22:05,364 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:22:06,814 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:22:13,640 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:22:13,665 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:22:15,263 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:22:16,510 INFO  [Log] cookie tiklandi 
+2023-02-10 21:22:17,218 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:22:17,344 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:22:17,347 INFO  [Log] ilk acilan product listesinde belirlenen urun 38 . siradaki urundur 
+2023-02-10 21:22:20,623 INFO  [Log] cookie tiklandi 
+2023-02-10 21:22:37,291 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 21:22:37,315 INFO  [Log] tutarBilgisi = 13.250,00 TL 
+2023-02-10 21:22:37,317 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:22:42,451 INFO  [Log] S   bedeni secildi 
+2023-02-10 21:22:42,514 INFO  [Log] sepete eklendi 
+2023-02-10 21:32:01,360 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:32:01,985 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:32:06,845 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:32:06,871 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:32:08,467 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:32:09,729 INFO  [Log] cookie tiklandi 
+2023-02-10 21:32:10,443 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:32:10,549 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:32:10,550 INFO  [Log] ilk acilan product listesinde belirlenen urun 44 . siradaki urundur 
+2023-02-10 21:32:13,115 INFO  [Log] cookie tiklandi 
+2023-02-10 21:32:32,902 INFO  [Log] urunBilgisi = DIŞ GÖMLEK 
+2023-02-10 21:32:32,925 INFO  [Log] tutarBilgisi = 4.749,00 TL 
+2023-02-10 21:32:32,925 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:34:16,586 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:34:17,757 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:34:22,834 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:34:22,862 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:34:24,448 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:34:25,662 INFO  [Log] cookie tiklandi 
+2023-02-10 21:34:26,456 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:34:26,576 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:34:26,577 INFO  [Log] ilk acilan product listesinde belirlenen urun 3 . siradaki urundur 
+2023-02-10 21:34:30,090 INFO  [Log] cookie tiklandi 
+2023-02-10 21:34:46,718 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 21:34:46,744 INFO  [Log] tutarBilgisi = 39.450,00 TL 
+2023-02-10 21:34:46,745 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:34:51,881 INFO  [Log] 38   bedeni secildi 
+2023-02-10 21:34:51,967 INFO  [Log] sepete eklendi 
+2023-02-10 21:40:18,148 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:40:19,039 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:40:24,244 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:40:24,270 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:40:25,857 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:40:27,107 INFO  [Log] cookie tiklandi 
+2023-02-10 21:40:27,881 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:40:28,046 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:40:28,050 INFO  [Log] ilk acilan product listesinde belirlenen urun 24 . siradaki urundur 
+2023-02-10 21:40:31,885 INFO  [Log] cookie tiklandi 
+2023-02-10 21:40:48,911 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 21:40:48,943 INFO  [Log] tutarBilgisi = 21.950,00 TL 
+2023-02-10 21:40:48,943 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:40:54,128 INFO  [Log] 39   bedeni secildi 
+2023-02-10 21:40:57,261 INFO  [Log] sepete eklendi 
+2023-02-10 21:44:28,692 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:44:30,076 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:44:37,553 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:44:37,582 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:44:39,149 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:44:40,477 INFO  [Log] cookie tiklandi 
+2023-02-10 21:44:41,499 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:44:41,641 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:44:41,647 INFO  [Log] ilk acilan product listesinde belirlenen urun 38 . siradaki urundur 
+2023-02-10 21:44:47,300 INFO  [Log] cookie tiklandi 
+2023-02-10 21:45:04,678 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 21:45:04,704 INFO  [Log] tutarBilgisi = 13.250,00 TL 
+2023-02-10 21:45:04,704 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:47:25,026 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:47:26,569 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:47:34,005 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:47:34,254 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:47:36,613 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:47:37,937 INFO  [Log] cookie tiklandi 
+2023-02-10 21:47:39,654 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:47:39,911 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:47:39,916 INFO  [Log] ilk acilan product listesinde belirlenen urun 42 . siradaki urundur 
+2023-02-10 21:47:48,589 INFO  [Log] cookie tiklandi 
+2023-02-10 21:48:08,261 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 21:48:08,289 INFO  [Log] tutarBilgisi = 33.450,00 TL 
+2023-02-10 21:48:08,291 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:48:13,437 INFO  [Log] 48   bedeni secildi 
+2023-02-10 21:48:16,666 INFO  [Log] sepete eklendi 
+2023-02-10 21:51:43,201 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:51:44,619 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:51:53,697 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:51:53,775 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:51:55,473 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:51:56,996 INFO  [Log] cookie tiklandi 
+2023-02-10 21:52:00,056 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:52:00,984 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:52:00,990 INFO  [Log] ilk acilan product listesinde belirlenen urun 43 . siradaki urundur 
+2023-02-10 21:52:09,164 INFO  [Log] cookie tiklandi 
+2023-02-10 21:52:29,574 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 21:52:29,623 INFO  [Log] tutarBilgisi = 21.450,00 TL 
+2023-02-10 21:52:29,624 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:52:34,830 INFO  [Log] 0   bedeni secildi 
+2023-02-10 21:52:37,942 INFO  [Log] sepete eklendi 
+2023-02-10 21:57:00,957 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:57:03,000 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:57:12,566 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:57:12,615 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:57:14,394 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:57:15,884 INFO  [Log] cookie tiklandi 
+2023-02-10 21:57:19,529 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:57:20,438 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:57:20,444 INFO  [Log] ilk acilan product listesinde belirlenen urun 1 . siradaki urundur 
+2023-02-10 21:57:28,353 INFO  [Log] cookie tiklandi 
+2023-02-10 21:57:48,684 INFO  [Log] urunBilgisi = DIŞ GÖMLEK 
+2023-02-10 21:57:48,763 INFO  [Log] tutarBilgisi = 3.299,00 TL 
+2023-02-10 21:57:48,764 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 21:57:53,992 INFO  [Log] XS   bedeni secildi 
+2023-02-10 21:57:57,182 INFO  [Log] sepete eklendi 
+2023-02-10 21:58:04,294 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-10 21:58:15,423 INFO  [Log]  element tiklandi 
+2023-02-10 21:58:21,490 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-10 21:58:21,664 INFO  [Log] 2 adet secildi 
+2023-02-10 21:58:23,701 INFO  [Log] sepetAdet = 2 
+2023-02-10 21:58:23,701 INFO  [Log] urun adedi 2 adet 
+2023-02-10 21:58:24,265 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-10 21:58:24,266 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-10 21:59:22,339 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 21:59:23,490 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 21:59:29,569 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 21:59:29,600 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 21:59:31,139 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 21:59:32,366 INFO  [Log] cookie tiklandi 
+2023-02-10 21:59:33,377 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 21:59:33,531 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 21:59:33,535 INFO  [Log] ilk acilan product listesinde belirlenen urun 19 . siradaki urundur 
+2023-02-10 21:59:38,015 INFO  [Log] cookie tiklandi 
+2023-02-10 21:59:55,632 INFO  [Log] urunBilgisi = Comfort Fit Siyah Keten Dokuma Gömlek 
+2023-02-10 21:59:55,664 INFO  [Log] tutarBilgisi = 1.899,00 TL 
+2023-02-10 21:59:55,665 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:05:18,466 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 22:05:20,020 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 22:05:27,095 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 22:05:27,211 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 22:05:29,439 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 22:05:30,697 INFO  [Log] cookie tiklandi 
+2023-02-10 22:05:32,060 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 22:05:32,264 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 22:05:32,268 INFO  [Log] ilk acilan product listesinde belirlenen urun 30 . siradaki urundur 
+2023-02-10 22:05:39,126 INFO  [Log] cookie tiklandi 
+2023-02-10 22:05:57,983 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 22:05:58,010 INFO  [Log] tutarBilgisi = 39.450,00 TL 
+2023-02-10 22:05:58,011 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:08:10,934 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 22:08:12,178 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 22:08:19,662 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 22:08:19,861 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 22:08:21,916 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 22:08:23,157 INFO  [Log] cookie tiklandi 
+2023-02-10 22:08:24,477 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 22:08:24,676 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 22:08:24,681 INFO  [Log] ilk acilan product listesinde belirlenen urun 34 . siradaki urundur 
+2023-02-10 22:08:30,804 INFO  [Log] cookie tiklandi 
+2023-02-10 22:08:51,376 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 22:08:51,409 INFO  [Log] tutarBilgisi = 17.250,00 TL 
+2023-02-10 22:08:51,409 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:08:56,523 INFO  [Log] 48   bedeni secildi 
+2023-02-10 22:08:59,622 INFO  [Log] sepete eklendi 
+2023-02-10 22:09:06,710 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-10 22:09:16,770 INFO  [Log]  element tiklandi 
+2023-02-10 22:09:22,828 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-10 22:09:22,997 INFO  [Log] 2 adet secildi 
+2023-02-10 22:09:25,082 INFO  [Log] sepetAdet = 2 
+2023-02-10 22:09:25,083 INFO  [Log] urun adedi 2 adet 
+2023-02-10 22:09:25,979 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-10 22:09:25,979 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-10 22:09:46,296 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 22:09:48,362 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 22:09:54,481 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 22:09:54,530 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 22:09:56,165 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 22:09:57,438 INFO  [Log] cookie tiklandi 
+2023-02-10 22:09:58,697 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 22:09:58,949 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 22:09:58,953 INFO  [Log] ilk acilan product listesinde belirlenen urun 17 . siradaki urundur 
+2023-02-10 22:10:05,421 INFO  [Log] cookie tiklandi 
+2023-02-10 22:10:23,584 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 22:10:23,611 INFO  [Log] tutarBilgisi = 15.450,00 TL 
+2023-02-10 22:10:23,611 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:10:28,753 INFO  [Log] 39   bedeni secildi 
+2023-02-10 22:10:31,861 INFO  [Log] sepete eklendi 
+2023-02-10 22:10:38,953 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-10 22:10:47,361 INFO  [Log]  element tiklandi 
+2023-02-10 22:10:53,407 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-10 22:12:03,915 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 22:12:05,588 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 22:12:13,493 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 22:12:13,742 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 22:12:15,354 ERROR [Log] Erkek butonu tiklanamadi.  
+2023-02-10 22:12:16,683 INFO  [Log] cookie tiklandi 
+2023-02-10 22:12:18,346 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 22:12:18,686 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 22:12:18,693 INFO  [Log] ilk acilan product listesinde belirlenen urun 30 . siradaki urundur 
+2023-02-10 22:12:27,172 INFO  [Log] cookie tiklandi 
+2023-02-10 22:12:45,809 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 22:12:45,844 INFO  [Log] tutarBilgisi = 39.450,00 TL 
+2023-02-10 22:12:45,845 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:12:50,998 INFO  [Log] 38   bedeni secildi 
+2023-02-10 22:12:54,121 INFO  [Log] sepete eklendi 
+2023-02-10 22:13:01,210 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-10 22:13:12,559 INFO  [Log]  element tiklandi 
+2023-02-10 22:13:18,629 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-10 22:13:19,849 INFO  [Log] 2 adet secildi 
+2023-02-10 22:13:21,878 INFO  [Log] sepetAdet = 2 
+2023-02-10 22:13:21,878 INFO  [Log] urun adedi 2 adet 
+2023-02-10 22:13:22,405 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-10 22:13:22,405 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-10 22:18:07,356 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 22:18:08,201 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 22:18:13,512 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 22:18:13,541 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 22:18:16,655 INFO  [Log] cookie tiklandi 
+2023-02-10 22:18:17,462 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 22:18:17,582 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 22:18:17,584 INFO  [Log] ilk acilan product listesinde belirlenen urun 40 . siradaki urundur 
+2023-02-10 22:18:20,570 INFO  [Log] cookie tiklandi 
+2023-02-10 22:18:38,514 INFO  [Log] urunBilgisi = Açık İndigo Denim Gömlek 
+2023-02-10 22:18:38,549 INFO  [Log] tutarBilgisi = 2.599,00 TL 
+2023-02-10 22:18:38,550 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:19:39,383 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 22:19:40,163 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 22:19:45,940 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 22:19:45,968 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 22:19:47,830 INFO  [Log] cookie tiklandi 
+2023-02-10 22:19:50,124 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 22:19:50,224 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 22:19:50,226 INFO  [Log] ilk acilan product listesinde belirlenen urun 36 . siradaki urundur 
+2023-02-10 22:19:54,594 INFO  [Log] cookie tiklandi 
+2023-02-10 22:20:11,475 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 22:20:11,502 INFO  [Log] tutarBilgisi = 13.250,00 TL 
+2023-02-10 22:20:11,503 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:20:16,617 INFO  [Log] S   bedeni secildi 
+2023-02-10 22:20:19,745 INFO  [Log] sepete eklendi 
+2023-02-10 22:20:26,881 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-10 22:20:36,710 INFO  [Log]  element tiklandi 
+2023-02-10 22:20:42,770 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-10 22:21:05,908 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 22:21:06,726 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 22:21:12,644 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 22:21:12,674 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 22:21:14,565 INFO  [Log] cookie tiklandi 
+2023-02-10 22:21:16,336 INFO  [Log] erkek butonu tiklandi 
+2023-02-10 22:21:17,244 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 22:21:17,377 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 22:21:17,379 INFO  [Log] ilk acilan product listesinde belirlenen urun 11 . siradaki urundur 
+2023-02-10 22:21:20,826 INFO  [Log] cookie tiklandi 
+2023-02-10 22:21:38,516 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 22:21:38,552 INFO  [Log] tutarBilgisi = 2.249,00 TL 
+2023-02-10 22:21:38,553 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:21:43,671 INFO  [Log] 12 Yaş   bedeni secildi 
+2023-02-10 22:21:46,756 INFO  [Log] sepete eklendi 
+2023-02-10 22:21:53,831 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-10 22:22:02,708 INFO  [Log]  element tiklandi 
+2023-02-10 22:22:08,772 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-10 22:22:09,911 INFO  [Log] 2 adet secildi 
+2023-02-10 22:22:11,969 INFO  [Log] sepetAdet = 2 
+2023-02-10 22:22:11,969 INFO  [Log] urun adedi 2 adet 
+2023-02-10 22:22:12,410 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-10 22:22:12,411 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-10 22:25:12,670 INFO  [Log] Beymen UI Testi basladi 
+2023-02-10 22:25:13,873 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-10 22:25:19,482 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-10 22:25:20,092 INFO  [Log] www.beymen.com url acildi 
+2023-02-10 22:25:21,701 INFO  [Log] cookie tiklandi 
+2023-02-10 22:25:24,238 INFO  [Log] erkek butonu tiklandi 
+2023-02-10 22:25:25,200 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-10 22:25:25,437 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-10 22:25:25,446 INFO  [Log] ilk acilan product listesinde belirlenen urun 41 . siradaki urundur 
+2023-02-10 22:25:30,608 INFO  [Log] cookie tiklandi 
+2023-02-10 22:25:49,057 INFO  [Log] urunBilgisi = GÖMLEK 
+2023-02-10 22:25:49,081 INFO  [Log] tutarBilgisi = 2.549,00 TL 
+2023-02-10 22:25:49,081 INFO  [Log] txt dosyasina yazildi 
+2023-02-10 22:25:54,236 INFO  [Log] 5 Yaş   bedeni secildi 
+2023-02-10 22:25:57,354 INFO  [Log] sepete eklendi 
+2023-02-10 22:26:04,451 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-10 22:26:13,948 INFO  [Log]  element tiklandi 
+2023-02-10 22:26:19,993 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-10 22:26:21,135 INFO  [Log] 2 adet secildi 
+2023-02-10 22:26:23,168 INFO  [Log] sepetAdet = 2 
+2023-02-10 22:26:23,169 INFO  [Log] urun adedi 2 adet 
+2023-02-10 22:26:23,665 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-10 22:26:23,666 INFO  [Log] Beymen UI Testi sona erdi 

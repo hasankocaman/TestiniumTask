@@ -37,18 +37,17 @@ public class Beymen01 {
 //        - Sonuca göre sergilenen ürünlerden rastgele bir ürün seçilir.
       //  mainPage.productSelect();
         mainPage.listedenRandomElementSec(mainPage.productList);
-        mainPage.listedenRandomElementSec2(mainPage.acilanProductList);
-//        - Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazılır.
-mainPage.urunveTutarBilgisiGetirveYazdir();
-//        - Seçilen ürün sepete eklenir.
+ //       mainPage.listedenRandomElementSec2(mainPage.acilanProductList);
         mainPage.bedenOlcusuSec();
-        mainPage.addBasket.click();
-        mainPage.wait(5);
-        mainPage.sepeteGit.click();
-        mainPage.wait(5);
+//        - Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazılır.
+        //        - Seçilen ürün sepete eklenir.
+//mainPage.urunveTutarBilgisiGetirveYazdir();
 //        - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.
+        mainPage.sepeteGit();
+
 mainPage.urunveTutarKarsilastir();
 //        - Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
+        mainPage.wait(1);
 mainPage.sepetAdetSec();
         mainPage.wait(2);
         String sepetAdet = mainPage.sepetAdetDropDown.getAttribute("value");
