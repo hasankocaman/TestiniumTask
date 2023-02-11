@@ -20,7 +20,6 @@ import java.util.List;
 import java.util.Random;
 
 import static org.testng.AssertJUnit.assertEquals;
-import static utilities.Driver.driver;
 
 
 public class MainPage {
@@ -39,8 +38,6 @@ public class MainPage {
 
     public static final By COOKIE_BUTTON = By.id("onetrust-accept-btn-handler");
 
-    public static final By ERKEK_BUTTON = By.id("genderManButton");
-
     public static final By PRODUCT_SELECTED = By.xpath("(//*[@class='col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-3 o-productList__itemWrapper'])[" + rnd() + "]");
 
     @FindBy(id = "genderManButton")
@@ -49,8 +46,6 @@ public class MainPage {
     @FindBy(xpath = "(//*[text()='Tüm Çerezleri Kabul Et'])[1]")
     public WebElement acceptCookiesLocator2;
 
-    @FindBy(xpath = "(//*[@class='a-primaryButton genderPopup__button'])[2]")
-    public WebElement genderManButton;
 
     @FindBy(xpath = "//*[@class='default-input o-header__search--input']")
     public WebElement searchbox;
@@ -58,9 +53,6 @@ public class MainPage {
     @FindBy(xpath = "//*[@class='m-productCard__desc']")
     public List<WebElement> productList;
 
-
-    @FindBy(xpath = "//*[@class='m-productCard__desc']")
-    public List<WebElement> acilanProductList;
 
     @FindBy(xpath = "//*[@class='o-productDetail__description']")
     public WebElement productDetail;
@@ -71,7 +63,6 @@ public class MainPage {
     @FindBy(id = "addBasket")
     public WebElement addBasket;
 
-
     @FindBy(xpath = "//*[@class='o-header__userInfo--item bwi-cart-o -cart']")
     public WebElement sepeteGit;
 
@@ -80,6 +71,9 @@ public class MainPage {
 
     @FindBy(xpath = "//select[@class='a-selectControl -small']")
     public WebElement sepetAdetDropDown;
+
+    @FindBy(id = "quantitySelect0-key-0")
+    public WebElement sepetAdetDropDown2;
 
     @FindBy(id = "removeCartItemBtn0-key-0")
     public WebElement sepettenSil;
@@ -125,13 +119,9 @@ public class MainPage {
 
     }
 
-    public MainPage cookieClick() {
-        click(COOKIE_BUTTON);
-        return this;
-    }
+
     public MainPage erkekBtnClick() {
         actions.moveToElement(erkekButonu).click().perform();
-//        click(ERKEK_BUTTON);
         assertEquals("Beymen.com – Türkiye’nin Tek Dijital Lüks Platformu", Driver.getDriver().getTitle());
         return this;
     }
@@ -146,10 +136,6 @@ public class MainPage {
         return Driver.getDriver().findElement(by);
     }
 
-    public MainPage productSelect() {
-        click(PRODUCT_SELECTED);
-        return this;
-    }
 
     public void ifExistClick(WebElement element) {
         try {
@@ -407,8 +393,25 @@ public void sepeteGit(){
     }
     public void sepetAdetSec() {
         Select select = new Select(sepetAdetDropDown);
-        select.selectByIndex(1);
-        log.info("2 adet secildi");
+        try {
+            select.selectByIndex(1);
+            log.info("2 adet secildi");
+        }catch (Exception e){
+            wait(2);
+            Select select2 = new Select(sepetAdetDropDown2);
+            try {
+                select2.selectByIndex(1);
+                log.info("ilk catch calisti");
+                log.info("2 adet secildi");
+            }catch (Exception e2) {
+                select2.selectByIndex(0);
+                log.info("2. catch calisti");
+                log.info("1 adet secildi");
+            }
+
+
+        }
+
 
 
     }

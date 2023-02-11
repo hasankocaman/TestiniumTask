@@ -14,7 +14,7 @@ public class Beymen01 {
     MainPage mainPage = new MainPage();
     Log log = new Log();
 
-    @Test (description = "Beymen UI Testi")
+    @Test(description = "Beymen UI Testi")
     public void beymenSeleniumTest() {
         log.info("Beymen UI Testi basladi");
         String path = "src/test/java/resources/testinium.xlsx";
@@ -27,7 +27,7 @@ public class Beymen01 {
 //        üzerinden 1 sütun 1 satırdan alınarak yazılmalıdır. )
         mainPage.searchbox.sendKeys(sortKelimesi);
         //        - Arama kutucuğuna girilen “şort” kelimesi silinir.
-        alanTemizle(mainPage.searchbox);
+        mainPage.alanTemizle(mainPage.searchbox);
 //        - Arama kutucuğuna “gömlek” kelimesi girilir.(Not = Gömlek kelimesi excel dosyası
 //        üzerinden 2 sütun 1 satırdan alınarak yazılmalıdır. )
         log.info("gömlek kelimesi excelden alindi");
@@ -35,9 +35,9 @@ public class Beymen01 {
 //        - Klavye üzerinden “enter” tuşuna bastırılır
         mainPage.pressEnter();
 //        - Sonuca göre sergilenen ürünlerden rastgele bir ürün seçilir.
-      //  mainPage.productSelect();
+        //  mainPage.productSelect();
         mainPage.listedenRandomElementSec(mainPage.productList);
- //       mainPage.listedenRandomElementSec2(mainPage.acilanProductList);
+        //       mainPage.listedenRandomElementSec2(mainPage.acilanProductList);
         mainPage.bedenOlcusuSec();
 //        - Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazılır.
         //        - Seçilen ürün sepete eklenir.
@@ -45,22 +45,23 @@ public class Beymen01 {
 //        - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.
         mainPage.sepeteGit();
 
-mainPage.urunveTutarKarsilastir();
+        mainPage.urunveTutarKarsilastir();
 //        - Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
         mainPage.wait(1);
-mainPage.sepetAdetSec();
+        mainPage.sepetAdetSec();
         mainPage.wait(2);
         String sepetAdet = mainPage.sepetAdetDropDown.getAttribute("value");
         log.info("sepetAdet = " + sepetAdet);
-        mainPage.Control(sepetAdet.equals("2"),"urun adedi 2 adet",
-                "urun adedi 2 adet degil !!!  urun adedi="+ sepetAdet);
+        mainPage.Control(sepetAdet.equals("2"), "urun adedi 2 adet",
+                "urun adedi 2 adet degil !!!  urun adedi=" + sepetAdet);
 //        - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
-mainPage.sepettenSil.click();
-mainPage.sepetBosMu();
+        mainPage.sepettenSil.click();
+        mainPage.sepetBosMu();
         log.info("Beymen UI Testi sona erdi");
         Driver.getDriver().quit();
 
     }
+
     public void alanTemizle(WebElement element) {
 
         while (!element.getAttribute("value").equals("")) {
