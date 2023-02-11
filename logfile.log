@@ -2285,3 +2285,188 @@
 2023-02-11 10:00:11,875 INFO  [Log] urun adedi 2 adet 
 2023-02-11 10:00:12,365 INFO  [Log] sepette urun bulunmamaktadir 
 2023-02-11 10:00:12,365 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-11 10:08:40,949 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 10:08:41,562 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 10:08:45,619 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 10:08:45,648 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 10:08:46,913 INFO  [Log] cookie tiklandi 
+2023-02-11 10:08:48,901 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 10:08:49,749 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 10:08:49,946 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 10:08:49,948 INFO  [Log] ilk acilan product listesinde belirlenen urun 15 . siradaki urundur 
+2023-02-11 10:08:52,860 INFO  [Log] cookie tiklandi 
+2023-02-11 10:09:09,611 INFO  [Log] urunBilgisi = Kırık Beyaz Yıldız Nakışlı Uzun Dış Gömlek 
+2023-02-11 10:09:09,655 INFO  [Log] tutarBilgisi = 3.999,00 TL 
+2023-02-11 10:09:09,656 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 10:09:14,846 INFO  [Log] XS   bedeni secildi 
+2023-02-11 10:09:18,001 INFO  [Log] sepete eklendi 
+2023-02-11 10:09:25,144 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 10:09:33,421 INFO  [Log]  element tiklandi 
+2023-02-11 10:09:39,462 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-11 10:09:42,786 INFO  [Log] 2. catch calisti 
+2023-02-11 10:09:42,786 INFO  [Log] 1 adet secildi 
+2023-02-11 10:09:44,868 INFO  [Log] sepetAdet = 1 
+2023-02-11 10:09:44,869 INFO  [Log] urun adedi 2 adet degil !!!  urun adedi=1 
+2023-02-11 10:09:45,420 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-11 10:09:45,420 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-11 10:51:34,033 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 10:51:35,495 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 10:51:39,053 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 10:51:39,118 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 10:51:40,449 INFO  [Log] cookie tiklandi 
+2023-02-11 10:51:42,502 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 10:51:43,529 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 10:51:43,686 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 10:51:43,689 INFO  [Log] ilk acilan product listesinde belirlenen urun 42 . siradaki urundur 
+2023-02-11 10:51:46,226 INFO  [Log] cookie tiklandi 
+2023-02-11 10:52:03,353 INFO  [Log] urunBilgisi = Açık Mavi Gömlek 
+2023-02-11 10:52:03,403 INFO  [Log] tutarBilgisi = 3.149,00 TL 
+2023-02-11 10:52:03,404 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 10:52:08,636 INFO  [Log] 42   bedeni secildi 
+2023-02-11 10:52:11,811 INFO  [Log] sepete eklendi 
+2023-02-11 10:52:18,967 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 10:52:27,217 INFO  [Log]  element tiklandi 
+2023-02-11 10:52:33,246 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-11 10:52:34,431 INFO  [Log] 2 adet secildi 
+2023-02-11 10:52:36,450 INFO  [Log] sepetAdet = 2 
+2023-02-11 10:52:36,450 INFO  [Log] urun adedi 2 adet 
+2023-02-11 10:52:36,926 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-11 10:52:36,926 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-11 10:54:41,233 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 10:54:42,331 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 10:54:46,146 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 10:54:46,187 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 10:54:47,454 INFO  [Log] cookie tiklandi 
+2023-02-11 10:54:49,467 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 10:54:50,409 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 10:54:50,597 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 10:54:50,601 INFO  [Log] ilk acilan product listesinde belirlenen urun 2 . siradaki urundur 
+2023-02-11 10:54:53,331 INFO  [Log] cookie tiklandi 
+2023-02-11 10:55:10,198 INFO  [Log] urunBilgisi = Never Stop Thermal Yeşil Unisex Çocuk Ceket 
+2023-02-11 10:55:10,247 INFO  [Log] tutarBilgisi = 999,00 TL 
+2023-02-11 10:55:10,248 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 10:55:15,334 INFO  [Log] XS   bedeni secildi 
+2023-02-11 10:55:18,417 INFO  [Log] sepete eklendi 
+2023-02-11 10:55:23,616 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 10:56:34,021 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 10:56:35,270 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 10:56:38,948 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 10:56:38,982 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 10:56:40,265 INFO  [Log] cookie tiklandi 
+2023-02-11 10:56:42,246 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 10:56:43,185 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 10:56:43,328 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 10:56:43,332 INFO  [Log] ilk acilan product listesinde belirlenen urun 34 . siradaki urundur 
+2023-02-11 10:56:45,997 INFO  [Log] cookie tiklandi 
+2023-02-11 10:57:02,841 INFO  [Log] urunBilgisi = Slim Fit Koyu Mavi Oxford Gömlek 
+2023-02-11 10:57:02,873 INFO  [Log] tutarBilgisi = 1.499,00 TL 
+2023-02-11 10:57:02,873 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 10:57:18,087 INFO  [Log] S   bedeni secildi 
+2023-02-11 10:57:21,263 INFO  [Log] sepete eklendi 
+2023-02-11 10:57:26,470 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 10:58:16,245 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 10:58:17,344 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 10:58:20,937 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 10:58:20,979 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 10:58:22,347 INFO  [Log] cookie tiklandi 
+2023-02-11 10:58:24,465 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 10:58:25,470 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 10:58:25,613 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 10:58:25,616 INFO  [Log] ilk acilan product listesinde belirlenen urun 23 . siradaki urundur 
+2023-02-11 10:58:28,196 INFO  [Log] cookie tiklandi 
+2023-02-11 10:58:44,985 INFO  [Log] urunBilgisi = Neon Sarı Zebra Desenli Keçe Dış Gömlek 
+2023-02-11 10:58:45,021 INFO  [Log] tutarBilgisi = 1.649,00 TL 
+2023-02-11 10:58:45,021 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 10:59:00,269 INFO  [Log] XS   bedeni secildi 
+2023-02-11 10:59:03,374 INFO  [Log] sepete eklendi 
+2023-02-11 10:59:10,501 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 11:00:13,445 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 11:00:14,995 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 11:01:00,489 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 11:01:01,824 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 11:01:06,234 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 11:01:06,267 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 11:01:07,550 INFO  [Log] cookie tiklandi 
+2023-02-11 11:01:09,802 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 11:01:10,724 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 11:01:10,864 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 11:01:10,867 INFO  [Log] ilk acilan product listesinde belirlenen urun 41 . siradaki urundur 
+2023-02-11 11:01:14,564 INFO  [Log] cookie tiklandi 
+2023-02-11 11:01:31,662 INFO  [Log] urunBilgisi = Custom Fit Petrol Kadife Gömlek 
+2023-02-11 11:01:31,772 INFO  [Log] tutarBilgisi = 949,00 TL 
+2023-02-11 11:01:31,776 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 11:01:47,005 INFO  [Log] 38   bedeni secildi 
+2023-02-11 11:01:50,189 INFO  [Log] sepete eklendi 
+2023-02-11 11:01:57,271 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 11:03:28,122 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 11:03:28,808 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 11:03:52,474 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 11:03:53,260 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 11:03:56,517 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 11:03:56,548 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 11:03:57,862 INFO  [Log] cookie tiklandi 
+2023-02-11 11:03:59,912 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 11:04:00,834 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 11:04:01,003 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 11:04:01,007 INFO  [Log] ilk acilan product listesinde belirlenen urun 4 . siradaki urundur 
+2023-02-11 11:04:03,610 INFO  [Log] cookie tiklandi 
+2023-02-11 11:04:20,440 INFO  [Log] urunBilgisi = Comfort Fit Mavi Oxford Gömlek 
+2023-02-11 11:04:20,465 INFO  [Log] tutarBilgisi = 799,00 TL 
+2023-02-11 11:04:20,465 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 11:04:25,639 INFO  [Log] M   bedeni secildi 
+2023-02-11 11:04:28,766 INFO  [Log] sepete eklendi 
+2023-02-11 11:04:35,913 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 11:04:41,971 INFO  [Log]   element tiklandi ve sepete gidildi 
+2023-02-11 11:04:48,072 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-11 11:04:51,473 INFO  [Log] 2. catch calisti 
+2023-02-11 11:04:51,473 INFO  [Log] 1 adet secildi 
+2023-02-11 11:04:53,537 INFO  [Log] sepetAdet = 1 
+2023-02-11 11:04:53,537 INFO  [Log] urun adedi 2 adet degil !!!  urun adedi=1 
+2023-02-11 11:04:54,141 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-11 11:04:54,142 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-11 11:05:54,707 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 11:05:56,050 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 11:05:59,515 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 11:05:59,599 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 11:06:00,895 INFO  [Log] cookie tiklandi 
+2023-02-11 11:06:02,876 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 11:06:03,736 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 11:06:03,847 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 11:06:03,849 INFO  [Log] ilk acilan product listesinde belirlenen urun 16 . siradaki urundur 
+2023-02-11 11:06:06,446 INFO  [Log] cookie tiklandi 
+2023-02-11 11:06:23,144 INFO  [Log] urunBilgisi = Turuncu İnce Kapitoneli Dış Gömlek 
+2023-02-11 11:06:23,190 INFO  [Log] tutarBilgisi = 2.499,00 TL 
+2023-02-11 11:06:23,191 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 11:06:28,332 INFO  [Log] XL   bedeni secildi 
+2023-02-11 11:06:31,458 INFO  [Log] sepete eklendi 
+2023-02-11 11:06:38,647 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 11:06:44,754 INFO  [Log]   element tiklandi ve sepete gidildi 
+2023-02-11 11:06:50,786 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-11 11:06:51,915 INFO  [Log] 2 adet secildi 
+2023-02-11 11:06:53,958 INFO  [Log] sepetAdet = 2 
+2023-02-11 11:06:53,958 INFO  [Log] urun adedi 2 adet 
+2023-02-11 11:06:54,494 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-11 11:06:54,494 INFO  [Log] Beymen UI Testi sona erdi 
+2023-02-11 12:25:32,848 INFO  [Log] Beymen UI Testi basladi 
+2023-02-11 12:25:34,272 INFO  [Log] şort kelimesi excelden alindi 
+2023-02-11 12:25:37,635 INFO  [Log] https://www.beymen.com/   test Url acildi 
+2023-02-11 12:25:37,704 INFO  [Log] www.beymen.com url acildi 
+2023-02-11 12:25:38,980 INFO  [Log] cookie tiklandi 
+2023-02-11 12:25:40,861 INFO  [Log] erkek butonu tiklandi 
+2023-02-11 12:25:41,574 INFO  [Log] gömlek kelimesi excelden alindi 
+2023-02-11 12:25:41,691 INFO  [Log] ilk listedekiUrunSayisi = 98 
+2023-02-11 12:25:41,695 INFO  [Log] ilk acilan product listesinde belirlenen urun 14 . siradaki urundur 
+2023-02-11 12:25:44,287 INFO  [Log] cookie tiklandi 
+2023-02-11 12:26:01,630 INFO  [Log] urunBilgisi = Saks Logolu Yün Dış Gömlek 
+2023-02-11 12:26:01,677 INFO  [Log] tutarBilgisi = 2.149,00 TL 
+2023-02-11 12:26:01,678 INFO  [Log] txt dosyasina yazildi 
+2023-02-11 12:26:06,897 INFO  [Log] XS   bedeni secildi 
+2023-02-11 12:26:10,059 INFO  [Log] sepete eklendi 
+2023-02-11 12:26:17,227 INFO  [Log] Sepetim (1)  elementi goruldu 
+2023-02-11 12:26:23,472 INFO  [Log]   element tiklandi ve sepete gidildi 
+2023-02-11 12:26:29,570 INFO  [Log] Sepetteki fiyat urun fiyatina esit 
+2023-02-11 12:26:30,854 INFO  [Log] 2 adet secildi 
+2023-02-11 12:26:32,926 INFO  [Log] sepetAdet = 2 
+2023-02-11 12:26:32,926 INFO  [Log] urun adedi 2 adet 
+2023-02-11 12:26:33,564 INFO  [Log] sepette urun bulunmamaktadir 
+2023-02-11 12:26:33,564 INFO  [Log] Beymen UI Testi sona erdi 

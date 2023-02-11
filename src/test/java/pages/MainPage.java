@@ -264,20 +264,9 @@ public void sepeteGit(){
         log.info(element.getText()+"  elementi goruldu");
         wait(5);
         jse.executeScript("arguments[0].click();", element);
-        wait(2);
-        log.info(" element tiklandi");
+        log.info("  element tiklandi ve sepete gidildi");
         wait(3);
-     //   jse.executeScript("arguments[0].click();", element);
-       // log.info(element.getText()+"  elementi tiklandi");
-//        try {
-//            WebElement button = driver.findElement((By) element);
-//            button.click();
-//        }
-//        catch(org.openqa.selenium.StaleElementReferenceException ex)
-//        {
-//            WebElement button = driver.findElement((By) element);
-//            button.click();
-//        }
+
     }
     public static void  clickNew (WebElement element) {
         JavascriptExecutor jse = (JavascriptExecutor) Driver.getDriver();
@@ -405,7 +394,7 @@ public void sepeteGit(){
                 log.info("2 adet secildi");
             }catch (Exception e2) {
                 select2.selectByIndex(0);
-                log.info("2. catch calisti");
+                log.info("2. catch calisti urun iki adet secilemiyor");
                 log.info("1 adet secildi");
             }
 
